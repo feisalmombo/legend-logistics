@@ -545,7 +545,7 @@ We also develop and deploy practical transportation, warehousing and distributio
                 <span class="widget-title__inline">Our Offices</span></h3><div class="textwidget"></div></div></div></div></div><div id="pg-6-9" class="panel-grid panel-no-style"><div id="pgc-6-9-0" class="panel-grid-cell"><div id="panel-6-9-0-0" class="so-panel widget widget_text panel-first-child panel-last-child" data-index="13"><h3 class="widget-title"><span class="widget-title__inline">Tanzania_______________________________</span></h3>			<div class="textwidget"><p>MIC Building, 1st Floor,<br>
 P. O Box 7357<br>
 Mob: +255 684 456287<br>
-Email:&nbsp;<a href="mailto:info@goldenforest.co.tz" target="_blank" rel="noopener noreferrer">info@goldenforest.co.tz </a></p>
+Email:&nbsp;<a href="mailto:info@legendlogistics.co.tz" target="_blank" rel="noopener noreferrer">info@legendlogistics.co.tz </a></p>
 </div>
 		</div></div><div id="pgc-6-9-1" class="panel-grid-cell"><div id="panel-6-9-1-0" class="so-panel widget widget_text panel-first-child panel-last-child" data-index="14"><h3 class="widget-title"><span class="widget-title__inline">_____________________________________</span></h3>			<div class="textwidget"><p>Sales inquiry<br>
 sales@goldenforest.co.tz<br>
