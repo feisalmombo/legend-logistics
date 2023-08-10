@@ -564,7 +564,7 @@ Email: dar_ops@legendlogistics.co.tz</p>
 {{--  <p>Overseas:<br>
 Email: tkayiranga@legendlogistics.co.tz</p>  --}}
 </div>
-		</div></div></div><div id="pg-6-10" class="panel-grid panel-no-style"><div id="pgc-6-10-0" class="panel-grid-cell"><div id="panel-6-10-0-0" class="so-panel widget widget_text panel-first-child panel-last-child" data-index="17"><h3 class="widget-title"><span class="widget-title__inline">Zambia</span></h3>			<div class="textwidget"><p>Email:&nbsp;<a href="mailto:info@legendlogistics.co.tz" target="_blank" rel="noopener noreferrer">zambia@goldenforest.co.tz</a></p>
+		</div></div></div><div id="pg-6-10" class="panel-grid panel-no-style"><div id="pgc-6-10-0" class="panel-grid-cell"><div id="panel-6-10-0-0" class="so-panel widget widget_text panel-first-child panel-last-child" data-index="17"><h3 class="widget-title"><span class="widget-title__inline">Zambia</span></h3>			<div class="textwidget"><p>Email:&nbsp;<a href="mailto:info@legendlogistics.co.tz" target="_blank" rel="noopener noreferrer">zambia@legendlogistics.co.tz</a></p>
 </div>
 		</div></div><div id="pgc-6-10-1" class="panel-grid-cell"><div id="panel-6-10-1-0" class="so-panel widget widget_text panel-first-child panel-last-child" data-index="18"><h3 class="widget-title"><span class="widget-title__inline">Kenya</span></h3><div class="textwidget"><p>Email: kenya_ops@legendlogistics.co.tz</p>
 </div>
@@ -621,7 +621,7 @@ Email: tkayiranga@legendlogistics.co.tz</p>  --}}
             <i class="qlwapp-close" data-action="close">&times;</i>
             <div class="qlwapp-description">
               <h3>Hello!</h3>
-<p>chat on WhatsApp or send us an email to <a href="mailto:info@goldenforest.co.tz" style="text-decoration: none; color: white">info@goldenforest.co.tz&nbsp;</a></p>
+<p>chat on WhatsApp or send us an email to <a href="mailto:info@legendlogistics.co.tz" style="text-decoration: none; color: white">info@legendlogistics.co.tz&nbsp;</a></p>
             </div>
           </div>
                 <div class="qlwapp-body">
@@ -644,7 +644,7 @@ Email: tkayiranga@legendlogistics.co.tz</p>  --}}
         <a class="qlwapp-toggle" data-action="box" data-phone="+255684456287" data-message="Hello!" href="#" target="_blank">
               <i class="qlwapp-icon qlwapp-whatsapp-icon"></i>
             <i class="qlwapp-close" data-action="close">&times;</i>
-              <span class="qlwapp-text">Whatsapp Golden Forest Logistics</span>
+              <span class="qlwapp-text">Whatsapp Legend Logistics</span>
           </a>
       </div>
 </div>
