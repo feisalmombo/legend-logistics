@@ -5,7 +5,7 @@
 		<meta charset="UTF-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-		<title>Golden Forest Logistics Company Limited - Home</title>
+		<title>Legend Logistics Company Limited - Welcome Page</title>
         <link rel="dns-prefetch" href="//fonts.googleapis.com">
         <link rel="dns-prefetch" href="//s.w.org">
 
@@ -183,9 +183,10 @@
 		<div class="container">
 			<header class="header" role="banner">
 				<div class="header__logo">
-					<a href="#">
-                        <img alt="Golden Forest Logistics" data-srcset="{{asset('gfl/images/gfl2.png')}}" width="218" height="67" data-src="3" class="img-responsive lazyload" src="#">
-                    </a>
+					{{--  <a href="#">
+                        <img alt="Legend Logistics" data-srcset="{{asset('gfl/images/gfl2.png')}}" width="218" height="67" data-src="3" class="img-responsive lazyload" src="#" alt="Legend Logistics Company Limited">
+                    </a>  --}}
+                    <h1>Legend Logistics</h1>
 					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#cargopress-navbar-collapse">
 						<span class="navbar-toggle__text">MENU</span>
 						<span class="navbar-toggle__icon-bar">
