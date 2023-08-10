@@ -548,21 +548,21 @@ Mob: +255 684 456287<br>
 Email:&nbsp;<a href="mailto:info@legendlogistics.co.tz" target="_blank" rel="noopener noreferrer">info@legendlogistics.co.tz </a></p>
 </div>
 		</div></div><div id="pgc-6-9-1" class="panel-grid-cell"><div id="panel-6-9-1-0" class="so-panel widget widget_text panel-first-child panel-last-child" data-index="14"><h3 class="widget-title"><span class="widget-title__inline">_____________________________________</span></h3>			<div class="textwidget"><p>Sales inquiry<br>
-sales@goldenforest.co.tz<br>
+sales@legendlogistics.co.tz<br>
 Mobile: +255 624 524149</p>
 {{--  <p>Road Transport:<br>
-Email: operations@goldenforest.co.tz</p>
+Email: operations@legendlogistics.co.tz</p>
 <p>&nbsp;</p>  --}}
 </div>
 		</div></div><div id="pgc-6-9-2" class="panel-grid-cell"><div id="panel-6-9-2-0" class="so-panel widget widget_text panel-first-child panel-last-child" data-index="15"><h3 class="widget-title"><span class="widget-title__inline">_____________________________________</span></h3>			<div class="textwidget"><p>Sea freight:<br>
-Email: dar_ops@goldenforest.co.tz</p>
+Email: dar_ops@legendlogistics.co.tz</p>
 {{--  <p>Sea freight:<br>
-Email: dar_ops@goldenforest.co.tz</p>  --}}
+Email: dar_ops@legendlogistics.co.tz</p>  --}}
 </div>
 		</div></div><div id="pgc-6-9-3" class="panel-grid-cell"><div id="panel-6-9-3-0" class="so-panel widget widget_text panel-first-child panel-last-child" data-index="16"><h3 class="widget-title"><span class="widget-title__inline">__________________</span></h3>			<div class="textwidget"><p>Sea freight:<br>
-Email: dar_ops@goldenforest.co.tz</p>
+Email: dar_ops@legendlogistics.co.tz</p>
 {{--  <p>Overseas:<br>
-Email: tkayiranga@goldenforest.co.tz</p>  --}}
+Email: tkayiranga@legendlogistics.co.tz</p>  --}}
 </div>
 		</div></div></div><div id="pg-6-10" class="panel-grid panel-no-style"><div id="pgc-6-10-0" class="panel-grid-cell"><div id="panel-6-10-0-0" class="so-panel widget widget_text panel-first-child panel-last-child" data-index="17"><h3 class="widget-title"><span class="widget-title__inline">Zambia</span></h3>			<div class="textwidget"><p>Email:&nbsp;<a href="mailto:info@goldenforest.co.tz" target="_blank" rel="noopener noreferrer">zambia@goldenforest.co.tz</a></p>
 </div>
