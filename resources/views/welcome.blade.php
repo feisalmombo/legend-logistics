@@ -239,7 +239,7 @@
 
 		<i class="fa  fa-envelope-o"></i>
 		<h4 class="icon-box__title">Email Us</h4>
-		<span class="icon-box__subtitle">info@goldenforest.co.tz  </span>
+		<span class="icon-box__subtitle">info@legendlogistics.co.tz  </span>
 
 		</div>
 
@@ -493,7 +493,7 @@ var revapi1,
 <p style="text-align: center;">To provide innovative, efficient and cost effective ocean freight, air freight, road transport, rail transport, customs clearance, warehousing and logistics services for imports, exports and transit cargo supply chain use synergies of our international &amp; regional integrated service network.</p>
 
 <p style="text-align: center;">
-</p></div></div></div><div id="pgc-6-3-2" class="panel-grid-cell panel-grid-cell-empty"></div></div></div><div id="pg-6-4" class="panel-grid panel-no-style"><div id="pgc-6-4-0" class="panel-grid-cell"><div id="panel-6-4-0-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="7"><div class="widget-title--big panel-widget-style panel-widget-style-for-6-4-0-0"><h3 class="widget-title"><span class="widget-title__inline">About Us</span></h3><div class="textwidget">Golden Forest Logistics is a fast growing logistics business with interests in freight forwarding, customs clearing, warehousing, trucking and distribution across Eastern Africa.<br><br> We focus on serving customers with global sourcing and supply-chain-management needs; through creating values and innovative end-to-end international logistics services. Our dedicated team of professionals strive to provide customers with various cargo requirements with tailor-made logistics solutions, customized to your particular needs.<br><br>
+</p></div></div></div><div id="pgc-6-3-2" class="panel-grid-cell panel-grid-cell-empty"></div></div></div><div id="pg-6-4" class="panel-grid panel-no-style"><div id="pgc-6-4-0" class="panel-grid-cell"><div id="panel-6-4-0-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="7"><div class="widget-title--big panel-widget-style panel-widget-style-for-6-4-0-0"><h3 class="widget-title"><span class="widget-title__inline">About Us</span></h3><div class="textwidget">Legend Logistics Company Limited is a fast growing logistics business with interests in freight forwarding, customs clearing, warehousing, trucking and distribution across Eastern Africa.<br><br> We focus on serving customers with global sourcing and supply-chain-management needs; through creating values and innovative end-to-end international logistics services. Our dedicated team of professionals strive to provide customers with various cargo requirements with tailor-made logistics solutions, customized to your particular needs.<br><br>
 
 We also develop and deploy practical transportation, warehousing and distribution services in Eastern Africa covering Kenya, Uganda, Tanzania, Rwanda, Burundi, Transit goods to Zambia &amp; Kitwe.
 
