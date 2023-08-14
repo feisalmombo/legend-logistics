@@ -9,7 +9,8 @@
                 </p>  --}}
                 <h1 style="color: white">Legend Logistics</h1>
 <p>&nbsp;</p>
-</div></div></div><div class="col-xs-12  col-md-2"><div class="widget  widget_nav_menu"><h6 class="footer-top__headings">Our Services</h6><div class="menu-services-menu-container"><ul id="menu-services-menu" class="menu"><li id="menu-item-111" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-111"><a href="services.html">All Services</a></li>
+</div></div></div><div class="col-xs-12  col-md-2"><div class="widget  widget_nav_menu">
+    <h6 class="footer-top__headings">Our Services</h6><div class="menu-services-menu-container"><ul id="menu-services-menu" class="menu">
 <li id="menu-item-112" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-112"><a href="#">Road Transport</a></li>
 <li id="menu-item-112" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-112"><a href="#">Air Freight</a></li>
 <li id="menu-item-112" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-112"><a href="#">Ocean Freight</a></li>
