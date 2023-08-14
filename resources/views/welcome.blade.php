@@ -542,27 +542,19 @@ We also develop and deploy practical transportation, warehousing and distributio
 						<a class="btn btn-primary" href="#" target="_blank">Contact Us Now</a>					</div>
 				</div>
 			</div></div></div></div><div id="pg-6-8" class="panel-grid panel-no-style"><div id="pgc-6-8-0" class="panel-grid-cell"><div id="panel-6-8-0-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="12"><div class="widget-title--big panel-widget-style panel-widget-style-for-6-8-0-0"><h3 class="widget-title">
-                <span class="widget-title__inline">Our Offices</span></h3><div class="textwidget"></div></div></div></div></div><div id="pg-6-9" class="panel-grid panel-no-style"><div id="pgc-6-9-0" class="panel-grid-cell"><div id="panel-6-9-0-0" class="so-panel widget widget_text panel-first-child panel-last-child" data-index="13"><h3 class="widget-title"><span class="widget-title__inline">Tanzania_______________________________</span></h3>			<div class="textwidget"><p>MIC Building, 1st Floor,<br>
-P. O Box 7357<br>
-Mob: +255 684 456287<br>
-Email:&nbsp;<a href="mailto:info@legendlogistics.co.tz" target="_blank" rel="noopener noreferrer">info@legendlogistics.co.tz </a></p>
+                <span class="widget-title__inline">Our Offices</span></h3><div class="textwidget"></div></div></div></div></div><div id="pg-6-9" class="panel-grid panel-no-style"><div id="pgc-6-9-0" class="panel-grid-cell"><div id="panel-6-9-0-0" class="so-panel widget widget_text panel-first-child panel-last-child" data-index="13"><h3 class="widget-title"><span class="widget-title__inline">Tanzania_______________________________</span></h3>			<div class="textwidget"><p>Railway Street, Plot 158, Near Clock Tower Najmi Manzil Building,
+                    4th Floor.
+                    P. O Box 70963 Sokoine Drive Dar-es-Salaam - Tanzania<br>
+                Mob: +255 776 666 663<br>
 </div>
-		</div></div><div id="pgc-6-9-1" class="panel-grid-cell"><div id="panel-6-9-1-0" class="so-panel widget widget_text panel-first-child panel-last-child" data-index="14"><h3 class="widget-title"><span class="widget-title__inline">_____________________________________</span></h3>			<div class="textwidget"><p>Sales inquiry<br>
-sales@legendlogistics.co.tz<br>
-Mobile: +255 624 524149</p>
-{{--  <p>Road Transport:<br>
+		</div></div><div id="pgc-6-9-1" class="panel-grid-cell"><div id="panel-6-9-1-0" class="so-panel widget widget_text panel-first-child panel-last-child" data-index="14"><h3 class="widget-title"><span class="widget-title__inline">_____________________________________</span></h3>			<div class="textwidget"><p>Info<br>
+Email: info@legendlogistics.co.tz<br>
+</div>
+		</div></div><div id="pgc-6-9-2" class="panel-grid-cell"><div id="panel-6-9-2-0" class="so-panel widget widget_text panel-first-child panel-last-child" data-index="15"><h3 class="widget-title"><span class="widget-title__inline">_____________________________________</span></h3>			<div class="textwidget"><p>Export Operation:<br>
+Email: export@legendlogistics.co.tz</p>
+</div>
+		</div></div><div id="pgc-6-9-3" class="panel-grid-cell"><div id="panel-6-9-3-0" class="so-panel widget widget_text panel-first-child panel-last-child" data-index="16"><h3 class="widget-title"><span class="widget-title__inline">__________________</span></h3>			<div class="textwidget"><p>Operations:<br>
 Email: operations@legendlogistics.co.tz</p>
-<p>&nbsp;</p>  --}}
-</div>
-		</div></div><div id="pgc-6-9-2" class="panel-grid-cell"><div id="panel-6-9-2-0" class="so-panel widget widget_text panel-first-child panel-last-child" data-index="15"><h3 class="widget-title"><span class="widget-title__inline">_____________________________________</span></h3>			<div class="textwidget"><p>Sea freight:<br>
-Email: dar_ops@legendlogistics.co.tz</p>
-{{--  <p>Sea freight:<br>
-Email: dar_ops@legendlogistics.co.tz</p>  --}}
-</div>
-		</div></div><div id="pgc-6-9-3" class="panel-grid-cell"><div id="panel-6-9-3-0" class="so-panel widget widget_text panel-first-child panel-last-child" data-index="16"><h3 class="widget-title"><span class="widget-title__inline">__________________</span></h3>			<div class="textwidget"><p>Sea freight:<br>
-Email: dar_ops@legendlogistics.co.tz</p>
-{{--  <p>Overseas:<br>
-Email: tkayiranga@legendlogistics.co.tz</p>  --}}
 </div>
 </div>
 		</div></div><div id="pgc-6-11-3" class="panel-grid-cell panel-grid-cell-empty"></div></div><div id="pg-6-12" class="panel-grid panel-no-style"><div id="pgc-6-12-0" class="panel-grid-cell panel-grid-cell-empty"></div></div></div></div>
