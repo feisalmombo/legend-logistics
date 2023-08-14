@@ -564,19 +564,6 @@ Email: dar_ops@legendlogistics.co.tz</p>
 {{--  <p>Overseas:<br>
 Email: tkayiranga@legendlogistics.co.tz</p>  --}}
 </div>
-		</div></div></div><div id="pg-6-10" class="panel-grid panel-no-style"><div id="pgc-6-10-0" class="panel-grid-cell"><div id="panel-6-10-0-0" class="so-panel widget widget_text panel-first-child panel-last-child" data-index="17"><h3 class="widget-title"><span class="widget-title__inline">Zambia</span></h3>			<div class="textwidget"><p>Email:&nbsp;<a href="mailto:info@legendlogistics.co.tz" target="_blank" rel="noopener noreferrer">zambia@legendlogistics.co.tz</a></p>
-</div>
-		</div></div><div id="pgc-6-10-1" class="panel-grid-cell"><div id="panel-6-10-1-0" class="so-panel widget widget_text panel-first-child panel-last-child" data-index="18"><h3 class="widget-title"><span class="widget-title__inline">Kenya</span></h3><div class="textwidget"><p>Email: kenya_ops@legendlogistics.co.tz</p>
-</div>
-		</div></div><div id="pgc-6-10-2" class="panel-grid-cell"><div id="panel-6-10-2-0" class="so-panel widget widget_text panel-first-child panel-last-child" data-index="19"><h3 class="widget-title"><span class="widget-title__inline">Democratic Republic of Congo</span></h3>			<div class="textwidget"><p>email: drc_ops@legendlogistics.co.tz</p>
-</div>
-		</div></div><div id="pgc-6-10-3" class="panel-grid-cell"><div id="panel-6-10-3-0" class="so-panel widget widget_text panel-first-child panel-last-child" data-index="20"><h3 class="widget-title"><span class="widget-title__inline">Kitwe</span></h3>			<div class="textwidget"><p>Email: kitwe@legendlogistics.co.tz</p>
-</div>
-		</div></div></div><div id="pg-6-11" class="panel-grid panel-no-style"><div id="pgc-6-11-0" class="panel-grid-cell"><div id="panel-6-11-0-0" class="so-panel widget widget_text panel-first-child panel-last-child" data-index="21"><h3 class="widget-title"><span class="widget-title__inline">Burundi</span></h3>			<div class="textwidget"><p>bujumbura@legendlogistics.co.tz</p>
-</div>
-		</div></div><div id="pgc-6-11-1" class="panel-grid-cell"><div id="panel-6-11-1-0" class="so-panel widget widget_text panel-first-child panel-last-child" data-index="22"><h3 class="widget-title"><span class="widget-title__inline">Congo Brazza</span></h3>			<div class="textwidget"><p>email: congo_ops@legendlogistics.co.tz</p>
-</div>
-		</div></div><div id="pgc-6-11-2" class="panel-grid-cell panel-grid-cell-mobile-last"><div id="panel-6-11-2-0" class="so-panel widget widget_text panel-first-child panel-last-child" data-index="23"><h3 class="widget-title"><span class="widget-title__inline">Uganda</span></h3>			<div class="textwidget"><p>email: Uganda_ops@legendlogistics.co.tz</p>
 </div>
 		</div></div><div id="pgc-6-11-3" class="panel-grid-cell panel-grid-cell-empty"></div></div><div id="pg-6-12" class="panel-grid panel-no-style"><div id="pgc-6-12-0" class="panel-grid-cell panel-grid-cell-empty"></div></div></div></div>
 
