@@ -489,7 +489,8 @@ var revapi1,
 		</div>
 	</div>
 
-</div></div></div></div><div id="pg-6-3" class="panel-grid panel-has-style"><div class="siteorigin-panels-stretch panel-row-style panel-row-style-for-6-3" data-stretch-type="full"><div id="pgc-6-3-0" class="panel-grid-cell panel-grid-cell-empty"></div><div id="pgc-6-3-1" class="panel-grid-cell panel-grid-cell-mobile-last"><div id="panel-6-3-1-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="6"><div class="textwidget"><h3 style="text-align: center; font-size: 44px;">Our Mission</h3>
+</div></div></div></div>
+<div id="pg-6-3" class="panel-grid panel-has-style"><div class="siteorigin-panels-stretch panel-row-style panel-row-style-for-6-3" data-stretch-type="full"><div id="pgc-6-3-0" class="panel-grid-cell panel-grid-cell-empty"></div><div id="pgc-6-3-1" class="panel-grid-cell panel-grid-cell-mobile-last"><div id="panel-6-3-1-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="6"><div class="textwidget"><h3 style="text-align: center; font-size: 44px;">Our Mission</h3>
 <hr class="hr-quote">
 <p style="text-align: center;">To provide innovative, efficient and cost effective ocean freight, air freight, road transport, rail transport, customs clearance, warehousing and logistics services for imports, exports and transit cargo supply chain use synergies of our international &amp; regional integrated service network.</p>
 
