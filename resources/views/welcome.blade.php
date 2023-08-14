@@ -595,10 +595,10 @@ Email: tkayiranga@legendlogistics.co.tz</p>  --}}
             </div>
           </div>
                 <div class="qlwapp-body">
-                      <a class="qlwapp-account" data-action="open" data-phone="+255684456287" data-message="Hello!" href="javascript:void(0);" target="_blank">
+                      <a class="qlwapp-account" data-action="open" data-phone="+255776666663" data-message="Hello!" href="javascript:void(0);" target="_blank">
                               <div class="qlwapp-avatar">
                   <div class="qlwapp-avatar-container">
-                    <img alt="Theoneste " data-src="https://umojalogistics.co.rw/wp-content/uploads/2019/07/bossbusinesspeoplebusinessmanlawyerownerpersonicon-1320086651899415591.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+                    <img alt="Theoneste " data-src="{{asset('gfl/images/whatsapp-image.png')}}" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
                   </div>
                 </div>
                             <div class="qlwapp-info">
@@ -608,10 +608,10 @@ Email: tkayiranga@legendlogistics.co.tz</p>  --}}
             </a>
                   </div>
                   <div class="qlwapp-footer">
-            <p>Call us to <a href="tel://+255684456287">+255 684456287</a>&nbsp;from <em>0:00hs</em> a <em>24:00hs</em></p>
+            <p>Call us to <a href="tel://+255776666663">+255 776 666 663</a>&nbsp;from <em>0:00hs</em> a <em>24:00hs</em></p>
           </div>
               </div>
-        <a class="qlwapp-toggle" data-action="box" data-phone="+255684456287" data-message="Hello!" href="#" target="_blank">
+        <a class="qlwapp-toggle" data-action="box" data-phone="+255776666663" data-message="Hello!" href="#" target="_blank">
               <i class="qlwapp-icon qlwapp-whatsapp-icon"></i>
             <i class="qlwapp-close" data-action="close">&times;</i>
               <span class="qlwapp-text">Whatsapp Legend Logistics</span>
