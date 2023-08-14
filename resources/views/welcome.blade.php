@@ -168,7 +168,7 @@
 			<div class="container">
 				<!-- Top Tagline from WordPress -->
 				<div class="top__tagline">
-					All about Logistics 				</div>
+					All about Legend logistics 				</div>
 				<!-- Top Menu -->
 				<nav class="top__menu" role="navigation" aria-label="Top Menu">
 					<ul id="menu-top-menu" class="top-navigation  js-dropdown" role="menubar">
@@ -219,7 +219,7 @@
 
 		<i class="fa  fa-phone"></i>
 		<h4 class="icon-box__title">Call Us Anytime</h4>
-		<span class="icon-box__subtitle">+255 624524149 </span>
+		<span class="icon-box__subtitle">+255 776 666 663 </span>
 
 		</div>
 
