@@ -149,16 +149,16 @@
 									if(e.responsiveLevels&&(jQuery.each(e.responsiveLevels,function(e,f){f>i&&(t=r=f,l=e),i>f&&f>r&&(r=f,n=e)}),t>r&&(l=n)),f=e.gridheight[l]||e.gridheight[0]||e.gridheight,s=e.gridwidth[l]||e.gridwidth[0]||e.gridwidth,h=i/s,h=h>1?1:h,f=Math.round(h*f),"fullscreen"==e.sliderLayout){var u=(e.c.width(),jQuery(window).height());if(void 0!=e.fullScreenOffsetContainer){var c=e.fullScreenOffsetContainer.split(",");if (c) jQuery.each(c,function(e,i){u=jQuery(i).length>0?u-jQuery(i).outerHeight(!0):u}),e.fullScreenOffset.split("%").length>1&&void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0?u-=jQuery(window).height()*parseInt(e.fullScreenOffset,0)/100:void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0&&(u-=parseInt(e.fullScreenOffset,0))}f=u}else void 0!=e.minHeight&&f<e.minHeight&&(f=e.minHeight);e.c.closest(".rev_slider_wrapper").css({height:f})
 								}catch(d){console.log("Failure at Presize of Slider:"+d)}
 							};</script>
-      <style>
-        :root {
-          --qlwapp-scheme-brand:#2ac400;        }
-                  #qlwapp .qlwapp-toggle,
-          #qlwapp .qlwapp-box .qlwapp-header,
-          #qlwapp .qlwapp-box .qlwapp-user,
-          #qlwapp .qlwapp-box .qlwapp-user:before {
-            background-color: var(--qlwapp-scheme-brand);
-          }
-                      </style>
+        <style>
+            :root {
+            --qlwapp-scheme-brand:#2ac400;        }
+                    #qlwapp .qlwapp-toggle,
+            #qlwapp .qlwapp-box .qlwapp-header,
+            #qlwapp .qlwapp-box .qlwapp-user,
+            #qlwapp .qlwapp-box .qlwapp-user:before {
+                background-color: var(--qlwapp-scheme-brand);
+            }
+        </style>
       	</head>
 
 	<body data-rsssl="1" class="home page-template page-template-template-front-page-slider page-template-template-front-page-slider-php page page-id-6 siteorigin-panels siteorigin-panels-before-js siteorigin-panels-home">
