@@ -363,7 +363,8 @@ var revapi1,
 	}else{
 		revapi1 = tpj("#rev_slider_1_1").show().revolution({
 			sliderType:"carousel",
-			jsFileLocation:"//umojalogistics.co.rw/wp-content/plugins/revslider/public/assets/js/",
+			jsFileLocation:"{{ asset('//gfl/wp-content/plugins/revslider/public/assets/js/') }}",
+			//jsFileLocation:"//umojalogistics.co.rw/wp-content/plugins/revslider/public/assets/js/",
 			sliderLayout:"fullwidth",
 			dottedOverlay:"none",
 			delay:9000,
