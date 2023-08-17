@@ -364,6 +364,8 @@ var revapi1,
 		revapi1 = tpj("#rev_slider_1_1").show().revolution({
 			sliderType:"carousel",
 			//jsFileLocation:"{{ asset('//gfl/wp-content/plugins/revslider/public/assets/js/') }}",
+			//jsFileLocation:"//gfl/wp-content/plugins/revslider/public/assets/js/",
+			//jsFileLocation:"//legendlogistics.co.tz/wp-content/plugins/revslider/public/assets/js/",
 			jsFileLocation:"//umojalogistics.co.rw/wp-content/plugins/revslider/public/assets/js/",
 			sliderLayout:"fullwidth",
 			dottedOverlay:"none",
