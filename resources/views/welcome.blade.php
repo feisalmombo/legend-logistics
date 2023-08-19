@@ -173,7 +173,7 @@
 				<nav class="top__menu" role="navigation" aria-label="Top Menu">
 					<ul id="menu-top-menu" class="top-navigation  js-dropdown" role="menubar">
                         <li id="menu-item-793" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-793">
-                <li id="menu-item-824" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-824"><a href="#">About Us</a></li>
+                <li id="menu-item-824" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-824"><a href="{{ url('/about') }}">About Us</a></li>
                 <li id="menu-item-791" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-791"><a href="#">Contact Us</a></li>
                 </ul>				</nav>
 			</div>
@@ -199,7 +199,7 @@
 				<div class="header__navigation  js-sticky-offset">
 					<nav class="collapse  navbar-collapse" role="navigation" aria-label="Main Menu" id="cargopress-navbar-collapse">
 						<ul id="menu-main-menu" class="main-navigation  js-main-nav  js-dropdown" role="menubar"><li id="menu-item-12" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-6 current_page_item menu-item-12"><a href="#">Home</a></li>
-<li id="menu-item-822" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-822"><a href="#">About Us</a></li>
+<li id="menu-item-822" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-822"><a href="{{ url('/about') }}">About Us</a></li>
 <li id="menu-item-84" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-84" aria-haspopup="true" aria-expanded="false" tabindex="0"><a href="#">Our Services</a>
 <ul class="sub-menu">
 	<li id="menu-item-103" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-103"><a href="#">Road Transport</a></li>
