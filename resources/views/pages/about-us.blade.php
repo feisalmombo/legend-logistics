@@ -2,23 +2,13 @@
 <html lang="en-US">
 
 <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="pingback" href="https://umojalogistics.co.rw/xmlrpc.php" />
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>About Us &#8211; Umoja Worldwide Logistics </title>
-    <link rel='dns-prefetch' href='//fonts.googleapis.com' />
-    <link rel='dns-prefetch' href='//s.w.org' />
-    <link rel="alternate" type="application/rss+xml" title="Umoja Worldwide Logistics  &raquo; Feed"
-        href="https://umojalogistics.co.rw/index.php/feed/" />
-    <link rel="alternate" type="application/rss+xml" title="Umoja Worldwide Logistics  &raquo; Comments Feed"
-        href="https://umojalogistics.co.rw/index.php/comments/feed/" />
-    <link rel="alternate" type="application/rss+xml" title="Umoja Worldwide Logistics  &raquo; About Us Comments Feed"
-        href="https://umojalogistics.co.rw/index.php/about-us/feed/" />
-    <script type="text/javascript">
-        window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/umojalogistics.co.rw\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.2.17"}};
-			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])?!1:!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
-    </script>
+    <title>Legend Logistics Company Limited - Welcome Page</title>
+    <link rel="dns-prefetch" href="//fonts.googleapis.com">
+    <link rel="dns-prefetch" href="//s.w.org">
+
     <style type="text/css">
         img.wp-smiley,
         img.emoji {
@@ -33,27 +23,24 @@
             padding: 0 !important;
         }
     </style>
-    <link rel='stylesheet' id='wp-block-library-css'
-        href='https://umojalogistics.co.rw/wp-includes/css/dist/block-library/style.min.css?ver=5.2.17' type='text/css'
-        media='all' />
-    <link rel='stylesheet' id='contact-form-7-css'
-        href='https://umojalogistics.co.rw/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.3'
-        type='text/css' media='all' />
-    <link rel='stylesheet' id='rs-plugin-settings-css'
-        href='https://umojalogistics.co.rw/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.4.8.3'
-        type='text/css' media='all' />
-    <style id='rs-plugin-settings-inline-css' type='text/css'>
+
+    <link rel="stylesheet" id="wp-block-library-css" href="{{asset('gfl/css/block-library-style.min.css')}}"
+        type="text/css" media="all">
+    <link rel="stylesheet" id="contact-form-7-css" href="{{asset('gfl/css/css-styles.css')}}" type="text/css"
+        media="all">
+    <link rel="stylesheet" id="rs-plugin-settings-css" href="{{asset('gfl/css/css-settings.css')}}" type="text/css"
+        media="all">
+    <style id="rs-plugin-settings-inline-css" type="text/css">
         #rs-demo-id {}
     </style>
-    <link rel='stylesheet' id='siteorigin-panels-front-css'
-        href='https://umojalogistics.co.rw/wp-content/plugins/siteorigin-panels/css/front-flex.min.css?ver=2.10.6'
-        type='text/css' media='all' />
-    <link rel='stylesheet' id='qlwapp-css'
-        href='https://umojalogistics.co.rw/wp-content/plugins/wp-whatsapp-chat/assets/css/qlwapp.min.css?ver=4.3.0'
-        type='text/css' media='all' />
-    <link rel='stylesheet' id='cargopress-main-css'
-        href='https://umojalogistics.co.rw/wp-content/themes/umoja/style.css?ver=1.11.1' type='text/css' media='all' />
-    <style id='cargopress-main-inline-css' type='text/css'>
+
+    <link rel="stylesheet" id="siteorigin-panels-front-css" href="{{asset('gfl/css/css-front-flex.min.css')}}"
+        type="text/css" media="all">
+    <link rel="stylesheet" id="qlwapp-css" href="{{asset('gfl/css/css-qlwapp.min.css')}}" type="text/css" media="all">
+    <link rel="stylesheet" id="cargopress-main-css" href="{{asset('gfl/css/gfl-style.css')}}" type="text/css"
+        media="all">
+
+    <style id="cargopress-main-inline-css" type="text/css">
         /* WP Customizer start */
         .top,
         .top-navigation .sub-menu>li>a {
@@ -440,41 +427,22 @@
             }
         }
     </style>
-    <link rel='stylesheet' id='google-fonts-css'
-        href='//fonts.googleapis.com/css?family=Roboto%3A400%2C700%7CSource+Sans+Pro%3A700%2C900&#038;subset=latin'
-        type='text/css' media='all' />
-    <link rel='stylesheet' id='slb_core-css'
-        href='https://umojalogistics.co.rw/wp-content/plugins/simple-lightbox/client/css/app.css?ver=2.7.1'
-        type='text/css' media='all' />
-    <script type='text/javascript' src='https://umojalogistics.co.rw/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'>
-    </script>
-    <script type='text/javascript'
-        src='https://umojalogistics.co.rw/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
-    <script type='text/javascript'
-        src='https://umojalogistics.co.rw/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.4.8.3'>
-    </script>
-    <script type='text/javascript'
-        src='https://umojalogistics.co.rw/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.4.8.3'>
-    </script>
-    <script type='text/javascript'
-        src='https://umojalogistics.co.rw/wp-content/themes/umoja/assets/js/modernizr.custom.24530.js'></script>
-    <script type='text/javascript'
-        src='https://umojalogistics.co.rw/wp-content/themes/umoja/bower_components/picturefill/dist/picturefill.min.js?ver=1.2.0'>
-    </script>
-    <link rel='https://api.w.org/' href='https://umojalogistics.co.rw/index.php/wp-json/' />
-    <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://umojalogistics.co.rw/xmlrpc.php?rsd" />
-    <link rel="wlwmanifest" type="application/wlwmanifest+xml"
-        href="https://umojalogistics.co.rw/wp-includes/wlwmanifest.xml" />
-    <meta name="generator" content="WordPress 5.2.17" />
-    <link rel="canonical" href="https://umojalogistics.co.rw/index.php/about-us/" />
-    <link rel='shortlink' href='https://umojalogistics.co.rw/?p=232' />
-    <link rel="alternate" type="application/json+oembed"
-        href="https://umojalogistics.co.rw/index.php/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fumojalogistics.co.rw%2Findex.php%2Fabout-us%2F" />
-    <link rel="alternate" type="text/xml+oembed"
-        href="https://umojalogistics.co.rw/index.php/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fumojalogistics.co.rw%2Findex.php%2Fabout-us%2F&#038;format=xml" />
+
+    <link rel="stylesheet" id="google-fonts-css"
+        href="//fonts.googleapis.com/css?family=Roboto%3A400%2C700%7CSource+Sans+Pro%3A700%2C900&amp;subset=latin"
+        type="text/css" media="all">
+    <link rel="stylesheet" id="slb_core-css" href="{{asset('gfl/css/css-app.css')}}" type="text/css" media="all">
+    <script type="text/javascript" src="{{asset('gfl/js/jquery-jquery.js')}}"></script>
+    <script type="text/javascript" src="{{asset('gfl/js/jquery-jquery-migrate.min.js')}}"></script>
+    <script type="text/javascript" src="{{asset('gfl/js/js-jquery.themepunch.tools.min.js')}}"></script>
+    <script type="text/javascript" src="{{asset('gfl/js/js-jquery.themepunch.revolution.min.js')}}"></script>
+    <script type="text/javascript" src="{{asset('gfl/js/js-modernizr.custom.24530.js')}}"></script>
+    <script type="text/javascript" src="{{asset('gfl/js/dist-picturefill.min.js')}}"></script>
+
     <script>
         document.documentElement.className = document.documentElement.className.replace( 'no-js', 'js' );
     </script>
+
     <style>
         .no-js img.lazyload {
             display: none;
@@ -495,78 +463,257 @@
             transition-delay: 0ms;
         }
     </style>
+
     <meta name="generator"
-        content="Powered by Slider Revolution 5.4.8.3 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+        content="Powered by Slider Revolution 5.4.8.3 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface.">
     <style type="text/css" media="all" id="siteorigin-panels-layouts-head">
-        /* Layout 232 */
-        #pgc-232-0-0 {
-            width: 49.9947%;
-            width: calc(49.9947% - (0.50005279860649 * 30px))
+        /* Layout 6 */
+        #pgc-6-0-0,
+        #pgc-6-1-0,
+        #pgc-6-5-0,
+        #pgc-6-6-0,
+        #pgc-6-7-0,
+        #pgc-6-8-0,
+        #pgc-6-12-0 {
+            width: 100%;
+            width: calc(100% - (0 * 30px))
         }
 
-        #pl-232 #panel-232-0-0-0,
-        #pl-232 #panel-232-0-1-0 {}
+        #pl-6 #panel-6-0-0-0,
+        #pl-6 #panel-6-1-0-0,
+        #pl-6 #panel-6-2-0-0,
+        #pl-6 #panel-6-2-1-0,
+        #pl-6 #panel-6-2-2-0,
+        #pl-6 #panel-6-2-3-0,
+        #pl-6 #panel-6-3-1-0,
+        #pl-6 #panel-6-4-0-0,
+        #pl-6 #panel-6-4-1-0,
+        #pl-6 #panel-6-5-0-0,
+        #pl-6 #panel-6-6-0-0,
+        #pl-6 #panel-6-7-0-0,
+        #pl-6 #panel-6-8-0-0,
+        #pl-6 #panel-6-9-0-0,
+        #pl-6 #panel-6-9-1-0,
+        #pl-6 #panel-6-9-2-0,
+        #pl-6 #panel-6-9-3-0,
+        #pl-6 #panel-6-10-0-0,
+        #pl-6 #panel-6-10-1-0,
+        #pl-6 #panel-6-10-2-0,
+        #pl-6 #panel-6-10-3-0,
+        #pl-6 #panel-6-11-0-0,
+        #pl-6 #panel-6-11-1-0,
+        #pl-6 #panel-6-11-2-0 {}
 
-        #pgc-232-0-1 {
-            width: 50.0053%;
-            width: calc(50.0053% - (0.49994720139351 * 30px))
-        }
-
-        #pl-232 .so-panel {
+        #pg-6-0,
+        #pg-6-8,
+        #pg-6-9,
+        #pg-6-10,
+        #pg-6-11,
+        #pl-6 .so-panel {
             margin-bottom: 30px
         }
 
-        #pl-232 .so-panel:last-child {
+        #pg-6-1,
+        #pg-6-5 {
+            margin-bottom: 5px
+        }
+
+        #pgc-6-2-0,
+        #pgc-6-2-1,
+        #pgc-6-2-2,
+        #pgc-6-2-3,
+        #pgc-6-9-0,
+        #pgc-6-9-1,
+        #pgc-6-9-2,
+        #pgc-6-9-3,
+        #pgc-6-10-0,
+        #pgc-6-10-1,
+        #pgc-6-10-2,
+        #pgc-6-10-3,
+        #pgc-6-11-0,
+        #pgc-6-11-1,
+        #pgc-6-11-2,
+        #pgc-6-11-3 {
+            width: 25%;
+            width: calc(25% - (0.75 * 30px))
+        }
+
+        #pg-6-2 {
+            margin-bottom: 80px
+        }
+
+        #pgc-6-3-0,
+        #pgc-6-3-2 {
+            width: 19.9957%;
+            width: calc(19.9957% - (0.8000429553262 * 30px))
+        }
+
+        #pgc-6-3-1 {
+            width: 60.0086%;
+            width: calc(60.0086% - (0.3999140893476 * 30px))
+        }
+
+        #pg-6-3,
+        #pg-6-4 {
+            margin-bottom: 60px
+        }
+
+        #pgc-6-4-0,
+        #pgc-6-4-1 {
+            width: 50%;
+            width: calc(50% - (0.5 * 30px))
+        }
+
+        #pg-6-6,
+        #pg-6-7,
+        #pl-6 .so-panel:last-child {
             margin-bottom: 0px
+        }
+
+        #pg-6-0.panel-no-style,
+        #pg-6-0.panel-has-style>.panel-row-style,
+        #pg-6-3.panel-no-style,
+        #pg-6-3.panel-has-style>.panel-row-style,
+        #pg-6-6.panel-no-style,
+        #pg-6-6.panel-has-style>.panel-row-style,
+        #pg-6-8.panel-no-style,
+        #pg-6-8.panel-has-style>.panel-row-style,
+        #pg-6-9.panel-no-style,
+        #pg-6-9.panel-has-style>.panel-row-style,
+        #pg-6-10.panel-no-style,
+        #pg-6-10.panel-has-style>.panel-row-style,
+        #pg-6-11.panel-no-style,
+        #pg-6-11.panel-has-style>.panel-row-style,
+        #pg-6-12.panel-no-style,
+        #pg-6-12.panel-has-style>.panel-row-style {
+            -webkit-align-items: flex-start;
+            align-items: flex-start
+        }
+
+        #pg-6-3>.panel-row-style {
+            background-image:url('{{ asset(' gfl/images/background-image.jpg')}}');
+            background-position: center center;
+            background-repeat: no-repeat;
+            padding: 60px
+        }
+
+        #pg-6-6>.panel-row-style {
+            background-image:url('{{ asset(' gfl/images/background-image.jpg')}}');
+            background-repeat: repeat;
+            padding: 60px
+        }
+
+        #pg-6-7>.panel-row-style {
+            background-color: #f5f5f5
         }
 
         @media (max-width:991px) {
 
-            #pg-232-0.panel-no-style,
-            #pg-232-0.panel-has-style>.panel-row-style {
+            #pg-6-0.panel-no-style,
+            #pg-6-0.panel-has-style>.panel-row-style,
+            #pg-6-1.panel-no-style,
+            #pg-6-1.panel-has-style>.panel-row-style,
+            #pg-6-2.panel-no-style,
+            #pg-6-2.panel-has-style>.panel-row-style,
+            #pg-6-3.panel-no-style,
+            #pg-6-3.panel-has-style>.panel-row-style,
+            #pg-6-4.panel-no-style,
+            #pg-6-4.panel-has-style>.panel-row-style,
+            #pg-6-5.panel-no-style,
+            #pg-6-5.panel-has-style>.panel-row-style,
+            #pg-6-6.panel-no-style,
+            #pg-6-6.panel-has-style>.panel-row-style,
+            #pg-6-7.panel-no-style,
+            #pg-6-7.panel-has-style>.panel-row-style,
+            #pg-6-8.panel-no-style,
+            #pg-6-8.panel-has-style>.panel-row-style,
+            #pg-6-9.panel-no-style,
+            #pg-6-9.panel-has-style>.panel-row-style,
+            #pg-6-10.panel-no-style,
+            #pg-6-10.panel-has-style>.panel-row-style,
+            #pg-6-11.panel-no-style,
+            #pg-6-11.panel-has-style>.panel-row-style,
+            #pg-6-12.panel-no-style,
+            #pg-6-12.panel-has-style>.panel-row-style {
                 -webkit-flex-direction: column;
                 -ms-flex-direction: column;
                 flex-direction: column
             }
 
-            #pg-232-0>.panel-grid-cell,
-            #pg-232-0>.panel-row-style>.panel-grid-cell {
+            #pg-6-0>.panel-grid-cell,
+            #pg-6-0>.panel-row-style>.panel-grid-cell,
+            #pg-6-1>.panel-grid-cell,
+            #pg-6-1>.panel-row-style>.panel-grid-cell,
+            #pg-6-2>.panel-grid-cell,
+            #pg-6-2>.panel-row-style>.panel-grid-cell,
+            #pg-6-3>.panel-grid-cell,
+            #pg-6-3>.panel-row-style>.panel-grid-cell,
+            #pg-6-4>.panel-grid-cell,
+            #pg-6-4>.panel-row-style>.panel-grid-cell,
+            #pg-6-5>.panel-grid-cell,
+            #pg-6-5>.panel-row-style>.panel-grid-cell,
+            #pg-6-6>.panel-grid-cell,
+            #pg-6-6>.panel-row-style>.panel-grid-cell,
+            #pg-6-7>.panel-grid-cell,
+            #pg-6-7>.panel-row-style>.panel-grid-cell,
+            #pg-6-8>.panel-grid-cell,
+            #pg-6-8>.panel-row-style>.panel-grid-cell,
+            #pg-6-9>.panel-grid-cell,
+            #pg-6-9>.panel-row-style>.panel-grid-cell,
+            #pg-6-10>.panel-grid-cell,
+            #pg-6-10>.panel-row-style>.panel-grid-cell,
+            #pg-6-11>.panel-grid-cell,
+            #pg-6-11>.panel-row-style>.panel-grid-cell,
+            #pg-6-12>.panel-grid-cell,
+            #pg-6-12>.panel-row-style>.panel-grid-cell {
                 width: 100%;
                 margin-right: 0
             }
 
-            #pgc-232-0-0 {
+            #pgc-6-2-0,
+            #pgc-6-2-1,
+            #pgc-6-2-2,
+            #pgc-6-3-0,
+            #pgc-6-3-1,
+            #pgc-6-4-0,
+            #pgc-6-9-0,
+            #pgc-6-9-1,
+            #pgc-6-9-2,
+            #pgc-6-10-0,
+            #pgc-6-10-1,
+            #pgc-6-10-2,
+            #pgc-6-11-0,
+            #pgc-6-11-1,
+            #pgc-6-11-2 {
                 margin-bottom: 30px
             }
 
-            #pl-232 .panel-grid-cell {
+            #pl-6 .panel-grid-cell {
                 padding: 0
             }
 
-            #pl-232 .panel-grid .panel-grid-cell-empty {
+            #pl-6 .panel-grid .panel-grid-cell-empty {
                 display: none
             }
 
-            #pl-232 .panel-grid .panel-grid-cell-mobile-last {
+            #pl-6 .panel-grid .panel-grid-cell-mobile-last {
                 margin-bottom: 0px
             }
         }
     </style>
-    <link rel="icon" href="https://umojalogistics.co.rw/wp-content/uploads/2019/07/cropped-fav-32x32.png"
-        sizes="32x32" />
-    <link rel="icon" href="https://umojalogistics.co.rw/wp-content/uploads/2019/07/cropped-fav-192x192.png"
-        sizes="192x192" />
-    <link rel="apple-touch-icon-precomposed"
-        href="https://umojalogistics.co.rw/wp-content/uploads/2019/07/cropped-fav-180x180.png" />
-    <meta name="msapplication-TileImage"
-        content="https://umojalogistics.co.rw/wp-content/uploads/2019/07/cropped-fav-270x270.png" />
+
+    <link rel="icon" href="#" sizes="32x32">
+    <link rel="icon" href="#" sizes="192x192">
+    <link rel="apple-touch-icon-precomposed" href="#">
+
     <script type="text/javascript">
         function setREVStartSize(e){
-						try{ e.c=jQuery(e.c);var i=jQuery(window).width(),t=9999,r=0,n=0,l=0,f=0,s=0,h=0;
-							if(e.responsiveLevels&&(jQuery.each(e.responsiveLevels,function(e,f){f>i&&(t=r=f,l=e),i>f&&f>r&&(r=f,n=e)}),t>r&&(l=n)),f=e.gridheight[l]||e.gridheight[0]||e.gridheight,s=e.gridwidth[l]||e.gridwidth[0]||e.gridwidth,h=i/s,h=h>1?1:h,f=Math.round(h*f),"fullscreen"==e.sliderLayout){var u=(e.c.width(),jQuery(window).height());if(void 0!=e.fullScreenOffsetContainer){var c=e.fullScreenOffsetContainer.split(",");if (c) jQuery.each(c,function(e,i){u=jQuery(i).length>0?u-jQuery(i).outerHeight(!0):u}),e.fullScreenOffset.split("%").length>1&&void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0?u-=jQuery(window).height()*parseInt(e.fullScreenOffset,0)/100:void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0&&(u-=parseInt(e.fullScreenOffset,0))}f=u}else void 0!=e.minHeight&&f<e.minHeight&&(f=e.minHeight);e.c.closest(".rev_slider_wrapper").css({height:f})
-						}catch(d){console.log("Failure at Presize of Slider:"+d)}
-					};
+                try{ e.c=jQuery(e.c);var i=jQuery(window).width(),t=9999,r=0,n=0,l=0,f=0,s=0,h=0;
+                    if(e.responsiveLevels&&(jQuery.each(e.responsiveLevels,function(e,f){f>i&&(t=r=f,l=e),i>f&&f>r&&(r=f,n=e)}),t>r&&(l=n)),f=e.gridheight[l]||e.gridheight[0]||e.gridheight,s=e.gridwidth[l]||e.gridwidth[0]||e.gridwidth,h=i/s,h=h>1?1:h,f=Math.round(h*f),"fullscreen"==e.sliderLayout){var u=(e.c.width(),jQuery(window).height());if(void 0!=e.fullScreenOffsetContainer){var c=e.fullScreenOffsetContainer.split(",");if (c) jQuery.each(c,function(e,i){u=jQuery(i).length>0?u-jQuery(i).outerHeight(!0):u}),e.fullScreenOffset.split("%").length>1&&void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0?u-=jQuery(window).height()*parseInt(e.fullScreenOffset,0)/100:void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0&&(u-=parseInt(e.fullScreenOffset,0))}f=u}else void 0!=e.minHeight&&f<e.minHeight&&(f=e.minHeight);e.c.closest(".rev_slider_wrapper").css({height:f})
+                }catch(d){console.log("Failure at Presize of Slider:"+d)}
+            };
     </script>
+
     <style>
         :root {
             --qlwapp-scheme-brand: #2ac400;
@@ -579,6 +726,7 @@
             background-color: var(--qlwapp-scheme-brand);
         }
     </style>
+
 </head>
 
 <body data-rsssl=1 class="page-template-default page page-id-232 siteorigin-panels siteorigin-panels-before-js">
