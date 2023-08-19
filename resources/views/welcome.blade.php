@@ -23,6 +23,7 @@
                         padding: 0 !important;
                     }
                 </style>
+
         <link rel="stylesheet" id="wp-block-library-css" href="{{asset('gfl/css/block-library-style.min.css')}}" type="text/css" media="all">
         <link rel="stylesheet" id="contact-form-7-css" href="{{asset('gfl/css/css-styles.css')}}" type="text/css" media="all">
         <link rel="stylesheet" id="rs-plugin-settings-css" href="{{asset('gfl/css/css-settings.css')}}" type="text/css" media="all">
@@ -138,17 +139,21 @@
                     transition-delay: 0ms;
                 }
         </style>
+
 		<meta name="generator" content="Powered by Slider Revolution 5.4.8.3 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface.">
                 <style type="text/css" media="all" id="siteorigin-panels-layouts-head">/* Layout 6 */ #pgc-6-0-0 , #pgc-6-1-0 , #pgc-6-5-0 , #pgc-6-6-0 , #pgc-6-7-0 , #pgc-6-8-0 , #pgc-6-12-0 { width:100%;width:calc(100% - ( 0 * 30px ) ) } #pl-6 #panel-6-0-0-0 , #pl-6 #panel-6-1-0-0 , #pl-6 #panel-6-2-0-0 , #pl-6 #panel-6-2-1-0 , #pl-6 #panel-6-2-2-0 , #pl-6 #panel-6-2-3-0 , #pl-6 #panel-6-3-1-0 , #pl-6 #panel-6-4-0-0 , #pl-6 #panel-6-4-1-0 , #pl-6 #panel-6-5-0-0 , #pl-6 #panel-6-6-0-0 , #pl-6 #panel-6-7-0-0 , #pl-6 #panel-6-8-0-0 , #pl-6 #panel-6-9-0-0 , #pl-6 #panel-6-9-1-0 , #pl-6 #panel-6-9-2-0 , #pl-6 #panel-6-9-3-0 , #pl-6 #panel-6-10-0-0 , #pl-6 #panel-6-10-1-0 , #pl-6 #panel-6-10-2-0 , #pl-6 #panel-6-10-3-0 , #pl-6 #panel-6-11-0-0 , #pl-6 #panel-6-11-1-0 , #pl-6 #panel-6-11-2-0 {  } #pg-6-0 , #pg-6-8 , #pg-6-9 , #pg-6-10 , #pg-6-11 , #pl-6 .so-panel { margin-bottom:30px } #pg-6-1 , #pg-6-5 { margin-bottom:5px } #pgc-6-2-0 , #pgc-6-2-1 , #pgc-6-2-2 , #pgc-6-2-3 , #pgc-6-9-0 , #pgc-6-9-1 , #pgc-6-9-2 , #pgc-6-9-3 , #pgc-6-10-0 , #pgc-6-10-1 , #pgc-6-10-2 , #pgc-6-10-3 , #pgc-6-11-0 , #pgc-6-11-1 , #pgc-6-11-2 , #pgc-6-11-3 { width:25%;width:calc(25% - ( 0.75 * 30px ) ) } #pg-6-2 { margin-bottom:80px } #pgc-6-3-0 , #pgc-6-3-2 { width:19.9957%;width:calc(19.9957% - ( 0.8000429553262 * 30px ) ) } #pgc-6-3-1 { width:60.0086%;width:calc(60.0086% - ( 0.3999140893476 * 30px ) ) } #pg-6-3 , #pg-6-4 { margin-bottom:60px } #pgc-6-4-0 , #pgc-6-4-1 { width:50%;width:calc(50% - ( 0.5 * 30px ) ) } #pg-6-6 , #pg-6-7 , #pl-6 .so-panel:last-child { margin-bottom:0px } #pg-6-0.panel-no-style, #pg-6-0.panel-has-style > .panel-row-style , #pg-6-3.panel-no-style, #pg-6-3.panel-has-style > .panel-row-style , #pg-6-6.panel-no-style, #pg-6-6.panel-has-style > .panel-row-style , #pg-6-8.panel-no-style, #pg-6-8.panel-has-style > .panel-row-style , #pg-6-9.panel-no-style, #pg-6-9.panel-has-style > .panel-row-style , #pg-6-10.panel-no-style, #pg-6-10.panel-has-style > .panel-row-style , #pg-6-11.panel-no-style, #pg-6-11.panel-has-style > .panel-row-style , #pg-6-12.panel-no-style, #pg-6-12.panel-has-style > .panel-row-style { -webkit-align-items:flex-start;align-items:flex-start } #pg-6-3> .panel-row-style { background-image:url('{{ asset('gfl/images/background-image.jpg')}}');background-position:center center;background-repeat:no-repeat;padding:60px } #pg-6-6> .panel-row-style { background-image:url('{{ asset('gfl/images/background-image.jpg')}}');background-repeat:repeat;padding:60px } #pg-6-7> .panel-row-style { background-color:#f5f5f5 } @media (max-width:991px){ #pg-6-0.panel-no-style, #pg-6-0.panel-has-style > .panel-row-style , #pg-6-1.panel-no-style, #pg-6-1.panel-has-style > .panel-row-style , #pg-6-2.panel-no-style, #pg-6-2.panel-has-style > .panel-row-style , #pg-6-3.panel-no-style, #pg-6-3.panel-has-style > .panel-row-style , #pg-6-4.panel-no-style, #pg-6-4.panel-has-style > .panel-row-style , #pg-6-5.panel-no-style, #pg-6-5.panel-has-style > .panel-row-style , #pg-6-6.panel-no-style, #pg-6-6.panel-has-style > .panel-row-style , #pg-6-7.panel-no-style, #pg-6-7.panel-has-style > .panel-row-style , #pg-6-8.panel-no-style, #pg-6-8.panel-has-style > .panel-row-style , #pg-6-9.panel-no-style, #pg-6-9.panel-has-style > .panel-row-style , #pg-6-10.panel-no-style, #pg-6-10.panel-has-style > .panel-row-style , #pg-6-11.panel-no-style, #pg-6-11.panel-has-style > .panel-row-style , #pg-6-12.panel-no-style, #pg-6-12.panel-has-style > .panel-row-style { -webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column } #pg-6-0 > .panel-grid-cell , #pg-6-0 > .panel-row-style > .panel-grid-cell , #pg-6-1 > .panel-grid-cell , #pg-6-1 > .panel-row-style > .panel-grid-cell , #pg-6-2 > .panel-grid-cell , #pg-6-2 > .panel-row-style > .panel-grid-cell , #pg-6-3 > .panel-grid-cell , #pg-6-3 > .panel-row-style > .panel-grid-cell , #pg-6-4 > .panel-grid-cell , #pg-6-4 > .panel-row-style > .panel-grid-cell , #pg-6-5 > .panel-grid-cell , #pg-6-5 > .panel-row-style > .panel-grid-cell , #pg-6-6 > .panel-grid-cell , #pg-6-6 > .panel-row-style > .panel-grid-cell , #pg-6-7 > .panel-grid-cell , #pg-6-7 > .panel-row-style > .panel-grid-cell , #pg-6-8 > .panel-grid-cell , #pg-6-8 > .panel-row-style > .panel-grid-cell , #pg-6-9 > .panel-grid-cell , #pg-6-9 > .panel-row-style > .panel-grid-cell , #pg-6-10 > .panel-grid-cell , #pg-6-10 > .panel-row-style > .panel-grid-cell , #pg-6-11 > .panel-grid-cell , #pg-6-11 > .panel-row-style > .panel-grid-cell , #pg-6-12 > .panel-grid-cell , #pg-6-12 > .panel-row-style > .panel-grid-cell { width:100%;margin-right:0 } #pgc-6-2-0 , #pgc-6-2-1 , #pgc-6-2-2 , #pgc-6-3-0 , #pgc-6-3-1 , #pgc-6-4-0 , #pgc-6-9-0 , #pgc-6-9-1 , #pgc-6-9-2 , #pgc-6-10-0 , #pgc-6-10-1 , #pgc-6-10-2 , #pgc-6-11-0 , #pgc-6-11-1 , #pgc-6-11-2 { margin-bottom:30px } #pl-6 .panel-grid-cell { padding:0 } #pl-6 .panel-grid .panel-grid-cell-empty { display:none } #pl-6 .panel-grid .panel-grid-cell-mobile-last { margin-bottom:0px }  } </style>
 
         <link rel="icon" href="#" sizes="32x32">
 		<link rel="icon" href="#" sizes="192x192">
 		<link rel="apple-touch-icon-precomposed" href="#">
+
 		<script type="text/javascript">function setREVStartSize(e){
 								try{ e.c=jQuery(e.c);var i=jQuery(window).width(),t=9999,r=0,n=0,l=0,f=0,s=0,h=0;
 									if(e.responsiveLevels&&(jQuery.each(e.responsiveLevels,function(e,f){f>i&&(t=r=f,l=e),i>f&&f>r&&(r=f,n=e)}),t>r&&(l=n)),f=e.gridheight[l]||e.gridheight[0]||e.gridheight,s=e.gridwidth[l]||e.gridwidth[0]||e.gridwidth,h=i/s,h=h>1?1:h,f=Math.round(h*f),"fullscreen"==e.sliderLayout){var u=(e.c.width(),jQuery(window).height());if(void 0!=e.fullScreenOffsetContainer){var c=e.fullScreenOffsetContainer.split(",");if (c) jQuery.each(c,function(e,i){u=jQuery(i).length>0?u-jQuery(i).outerHeight(!0):u}),e.fullScreenOffset.split("%").length>1&&void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0?u-=jQuery(window).height()*parseInt(e.fullScreenOffset,0)/100:void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0&&(u-=parseInt(e.fullScreenOffset,0))}f=u}else void 0!=e.minHeight&&f<e.minHeight&&(f=e.minHeight);e.c.closest(".rev_slider_wrapper").css({height:f})
 								}catch(d){console.log("Failure at Presize of Slider:"+d)}
-							};</script>
+							};
+        </script>
+
         <style>
             :root {
             --qlwapp-scheme-brand:#2ac400;        }
@@ -159,6 +164,7 @@
                 background-color: var(--qlwapp-scheme-brand);
             }
         </style>
+        
       	</head>
 
 	<body data-rsssl="1" class="home page-template page-template-template-front-page-slider page-template-template-front-page-slider-php page page-id-6 siteorigin-panels siteorigin-panels-before-js siteorigin-panels-home">
