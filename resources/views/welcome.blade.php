@@ -164,7 +164,7 @@
                 background-color: var(--qlwapp-scheme-brand);
             }
         </style>
-        
+
       	</head>
 
 	<body data-rsssl="1" class="home page-template page-template-template-front-page-slider page-template-template-front-page-slider-php page page-id-6 siteorigin-panels siteorigin-panels-before-js siteorigin-panels-home">
@@ -205,19 +205,19 @@
 				<div class="header__navigation  js-sticky-offset">
 					<nav class="collapse  navbar-collapse" role="navigation" aria-label="Main Menu" id="cargopress-navbar-collapse">
 						<ul id="menu-main-menu" class="main-navigation  js-main-nav  js-dropdown" role="menubar"><li id="menu-item-12" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-6 current_page_item menu-item-12"><a href="#">Home</a></li>
-<li id="menu-item-822" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-822"><a href="{{ url('/about-us') }}">About Us</a></li>
-<li id="menu-item-84" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-84" aria-haspopup="true" aria-expanded="false" tabindex="0"><a href="#">Our Services</a>
-<ul class="sub-menu">
-	<li id="menu-item-103" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-103"><a href="#">Road Transport</a></li>
-	<li id="menu-item-104" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-104"><a href="#">Air Freight</a></li>
-	<li id="menu-item-105" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-105"><a href="#">Ocean Freight</a></li>
-	<li id="menu-item-105" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-105"><a href="#">Warehousing</a></li>
-	<li id="menu-item-108" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-108"><a href="#">Railway</a></li>
-</ul>
-</li>
-<li id="menu-item-26" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26"><a href="#">Our Blog</a></li>
-<li id="menu-item-123" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-123"><a href="#">Contact Us</a></li>
-</ul>					</nav>
+        <li id="menu-item-822" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-822"><a href="{{ url('/about-us') }}">About Us</a></li>
+        <li id="menu-item-84" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-84" aria-haspopup="true" aria-expanded="false" tabindex="0"><a href="#">Our Services</a>
+            <ul class="sub-menu">
+                <li id="menu-item-103" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-103"><a href="#">Road Transport</a></li>
+                <li id="menu-item-104" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-104"><a href="#">Air Freight</a></li>
+                <li id="menu-item-105" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-105"><a href="#">Ocean Freight</a></li>
+                <li id="menu-item-105" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-105"><a href="#">Warehousing</a></li>
+                <li id="menu-item-108" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-108"><a href="#">Railway</a></li>
+            </ul>
+        </li>
+        <li id="menu-item-26" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26"><a href="#">Our Blog</a></li>
+        <li id="menu-item-123" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-123"><a href="#">Contact Us</a></li>
+        </ul>					</nav>
 				</div>
 				<div class="header__widgets">
 				<div class="widget  widget-icon-box">
