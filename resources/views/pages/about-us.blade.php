@@ -746,8 +746,8 @@
             <div class="container">
                 <!-- Breadcrumb NavXT 6.3.0 -->
                 <span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage"
-                        title="Go to Umoja Worldwide Logistics ." href="https://umojalogistics.co.rw" class="home"><span
-                            property="name">Umoja Worldwide Logistics </span></a>
+                        title="Go to Legend Logistics Company Limited ." href="{{ url('/') }}" class="home"><span
+                            property="name">Legend Logistics </span></a>
                     <meta property="position" content="1">
                 </span><span class="post post-page current-item">About Us</span>
             </div>
@@ -766,7 +766,7 @@
                                             class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child"
                                             data-index="0">
                                             <div class="textwidget">
-                                                <p>UMOJA Logistics is a fast growing logistics business with interests
+                                                <p>Legend Logistics is a fast growing logistics business with interests
                                                     in freight forwarding, customs clearing, warehousing, trucking and
                                                     distribution across Eastern Africa. We focus on serving customers
                                                     with global sourcing and supply-chain-management needs; through
@@ -782,30 +782,30 @@
                                                             style="font-size: 22.5pt; line-height: 107%; font-family: 'Arial',sans-serif; color: #ff4d00;">Our
                                                             team</span></strong></h2>
                                                 <p><strong>Managing Director</strong><br />
-                                                    info@umojalogistics.co.rw<br />
+                                                    info@legendlogistics.co.tz<br />
                                                     Cell: +250 724455241</p>
                                                 <p><strong>Executive Director</strong><br />
-                                                    jenny@umojalogistics.co.rw<br />
+                                                    jenny@legendlogistics.co.tz<br />
                                                     Mobile: + 250 788885884</p>
                                                 <p><strong>Airport</strong><br />
-                                                    ops.aiport@umojalogistics.co.rw<br />
+                                                    ops.aiport@legendlogistics.co.tz<br />
                                                     Mobile: +250788460206</p>
                                                 <p><strong>Border clearance/RUSUMO/GATUNA/KAGITUMBA</strong><br />
-                                                    Ops.border@umojalogistics.co.rw<br />
+                                                    Ops.border@legendlogistics.co.tz<br />
                                                     Mobile:</p>
                                                 <p><strong>Sales &amp; Marketing</strong><br />
-                                                    sales@umojalogistics.co.rw<br />
+                                                    sales@legendlogistics.co.tz<br />
                                                     Mobile: +250 788350343</p>
                                                 <p><strong>Kenya</strong></p>
                                                 <p><strong>Country Manager</strong><br />
                                                     Nairobi- Kenya: +254722674553<br />
-                                                    Email: bnyongesa@umojalogistics.co.rw</p>
+                                                    Email: bnyongesa@legendlogistics.co.tz</p>
                                                 <p><strong>Democratic Republic of Congo</strong></p>
                                                 <p><strong>Country Manager</strong><br />
                                                     DRC- Lubumbashi:+243997099973<br />
-                                                    Email: fkyoni@umojalogistics.co.rw</p>
+                                                    Email: fkyoni@legendlogistics.co.tz</p>
                                                 <p><strong>Director Europe</strong><br />
-                                                    Email: egide.karuranga@umojalogistics.co.rw<br />
+                                                    Email: egide.karuranga@legendlogistics.co.tz<br />
                                                     Mobile: +32 488 37 91 45</p>
                                                 <p>&nbsp;</p>
                                             </div>
