@@ -23,7 +23,7 @@
                     <ul id="menu-main-menu" class="main-navigation  js-main-nav  js-dropdown" role="menubar">
                         <li id="menu-item-12"
                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-6 current_page_item menu-item-12">
-                            <a href="#">Home</a>
+                            <a href="{{ url('/') }}">Home</a>
                         </li>
                         <li id="menu-item-822"
                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-822"><a
