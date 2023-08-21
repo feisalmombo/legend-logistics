@@ -822,13 +822,13 @@
                                                         src="" />
                                                 </p>
                                                 <p><img alt="" width="965" height="547"
-                                                        data-src="https://umojalogistics.co.rw/wp-content/uploads/2019/07/34k-300x170.jpg"
+                                                        data-src="{{asset('gfl/images/truck-legend.jpg')}}"
                                                         class="alignnone wp-image-750 lazyload"
-                                                        src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><img
+                                                        src="" /><img
                                                         alt="" width="951" height="539"
                                                         data-src="https://umojalogistics.co.rw/wp-content/uploads/2019/07/34asg-300x170.jpg"
                                                         class="alignnone  wp-image-755 lazyload"
-                                                        src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
+                                                        src="" />
                                                 </p>
                                             </div>
                                         </div>
