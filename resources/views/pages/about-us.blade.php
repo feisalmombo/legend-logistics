@@ -817,9 +817,9 @@
                                             data-index="1">
                                             <div class="textwidget">
                                                 <p><img alt="" width="1061" height="601"
-                                                        data-src="https://umojalogistics.co.rw/wp-content/uploads/2019/07/34wrew-300x170.jpg"
+                                                        data-src="{{asset('gfl/images/container-ocean.jpg')}}"
                                                         class="alignnone wp-image-760 lazyload"
-                                                        src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
+                                                        src="" />
                                                 </p>
                                                 <p><img alt="" width="965" height="547"
                                                         data-src="https://umojalogistics.co.rw/wp-content/uploads/2019/07/34k-300x170.jpg"
