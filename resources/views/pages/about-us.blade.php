@@ -739,7 +739,7 @@
         <div class="main-title" style="">
             <div class="container">
 
-                <h1 class="main-title__primary">About Us hhhhhhhhhhhhhhhhhhhh</h1>
+                <h1 class="main-title__primary">About Us</h1>
             </div>
         </div>
         <div class="breadcrumbs">
