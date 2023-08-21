@@ -826,7 +826,7 @@
                                                         class="alignnone wp-image-750 lazyload"
                                                         src="" /><img
                                                         alt="" width="951" height="539"
-                                                        data-src="https://umojalogistics.co.rw/wp-content/uploads/2019/07/34asg-300x170.jpg"
+                                                        data-src="{{asset('gfl/images/truck2.jpg')}}"
                                                         class="alignnone  wp-image-755 lazyload"
                                                         src="" />
                                                 </p>
