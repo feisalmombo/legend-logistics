@@ -732,24 +732,7 @@
 <body data-rsssl=1 class="page-template-default page page-id-232 siteorigin-panels siteorigin-panels-before-js">
     <div class="boxed-container">
 
-        <div class="top">
-            <div class="container">
-                <!-- Top Tagline from WordPress -->
-                <div class="top__tagline">
-                    All about Logistics </div>
-                <!-- Top Menu -->
-                <nav class="top__menu" role="navigation" aria-label="Top Menu">
-                    <ul id="menu-top-menu" class="top-navigation  js-dropdown" role="menubar">
-                        <li id="menu-item-824"
-                            class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-232 current_page_item menu-item-824">
-                            <a href="https://umojalogistics.co.rw/index.php/about-us/">About Us</a></li>
-                        <li id="menu-item-791"
-                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-791"><a
-                                href="https://umojalogistics.co.rw/index.php/contact-us/">Contact Us</a></li>
-                    </ul>
-                </nav>
-            </div>
-        </div>
+        @include('partials.nav-upper')
 
         <div class="header__container">
             <div class="container">
