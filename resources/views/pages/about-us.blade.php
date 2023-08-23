@@ -818,17 +818,14 @@
                                             <div class="textwidget">
                                                 <p><img alt="" width="1061" height="601"
                                                         data-src="{{asset('gfl/images/container-ocean.jpg')}}"
-                                                        class="alignnone wp-image-760 lazyload"
-                                                        src="" />
+                                                        class="alignnone wp-image-760 lazyload" src="" />
                                                 </p>
                                                 <p><img alt="" width="965" height="547"
                                                         data-src="{{asset('gfl/images/truck-legend.jpg')}}"
-                                                        class="alignnone wp-image-750 lazyload"
-                                                        src="" /><img
-                                                        alt="" width="951" height="539"
+                                                        class="alignnone wp-image-750 lazyload" src="" /><img alt=""
+                                                        width="951" height="539"
                                                         data-src="{{asset('gfl/images/truck2.jpg')}}"
-                                                        class="alignnone  wp-image-755 lazyload"
-                                                        src="" />
+                                                        class="alignnone  wp-image-755 lazyload" src="" />
                                                 </p>
                                             </div>
                                         </div>
@@ -852,38 +849,37 @@
 
     @include('partials.chat')
 
-    <script type='text/javascript'>
-        /* <![CDATA[ */
-var wpcf7 = {"apiSettings":{"root":"https:\/\/umojalogistics.co.rw\/index.php\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
-/* ]]> */
+    <link rel="stylesheet" property="stylesheet" id="rs-icon-set-fa-icon-css"
+        href="{{asset('gfl/css/css-font-awesome.css')}}" type="text/css" media="all">
+    <script type="text/javascript">
+        function revslider_showDoubleJqueryError(sliderID) {
+                var errorMessage = "Revolution Slider Error: You have some jquery.js library include that comes after the revolution files js include.";
+                errorMessage += "<br> This includes make eliminates the revolution slider libraries, and make it not work.";
+                errorMessage += "<br><br> To fix it you can:<br>&nbsp;&nbsp;&nbsp; 1. In the Slider Settings -> Troubleshooting set option:  <strong><b>Put JS Includes To Body option to true.";
+                errorMessage += "<br>&nbsp;&nbsp;&nbsp; 2. Find the double jquery.js include and remove it.";
+                errorMessage = "<span style='font-size:16px;color:#BC0C06;'>" + errorMessage + "";
+                    jQuery(sliderID).show().html(errorMessage);
+            }
     </script>
-    <script type='text/javascript'
-        src='https://umojalogistics.co.rw/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.3'></script>
-    <script type='text/javascript'
-        src='https://umojalogistics.co.rw/wp-content/plugins/wp-smushit/app/assets/js/smush-lazy-load-native.min.js?ver=3.8.4'>
-    </script>
-    <script type='text/javascript'
-        src='https://umojalogistics.co.rw/wp-content/plugins/wp-whatsapp-chat/assets/js/qlwapp.min.js?ver=4.3.0'>
-    </script>
-    <script type='text/javascript' src='https://umojalogistics.co.rw/wp-includes/js/underscore.min.js?ver=1.8.3'>
-    </script>
-    <script type='text/javascript'>
-        /* <![CDATA[ */
-var CargoPressVars = {"pathToTheme":"https:\/\/umojalogistics.co.rw\/wp-content\/themes\/umoja"};
-/* ]]> */
-    </script>
-    <script type='text/javascript'
-        src='https://umojalogistics.co.rw/wp-content/themes/umoja/assets/js/main.min.js?ver=1.11.1'></script>
-    <script type='text/javascript'
-        src='https://umojalogistics.co.rw/wp-content/themes/umoja/vendor/proteusthemes/wai-aria-walker-nav-menu/wai-aria.js'>
-    </script>
-    <script type='text/javascript' src='https://umojalogistics.co.rw/wp-includes/js/wp-embed.min.js?ver=5.2.17'>
-    </script>
+
+    <script type="text/javascript" src="{{asset('gfl/js/js-scripts.js')}}"></script>
+    <script type="text/javascript" src="{{asset('gfl/js/js-smush-lazy-load-native.min.js')}}"></script>
+    <script type="text/javascript" src="{{asset('gfl/js/js-qlwapp.min.js')}}"></script>
+    <script type="text/javascript" src="{{asset('gfl/js/js-underscore.min.js')}}"></script>
+
+
+    <script type="text/javascript" src="{{asset('gfl/js/js-main.min.js')}}"></script>
+    <script type="text/javascript" src="{{asset('gfl/js/wai-aria-walker-nav-menu-wai-aria.js')}}"></script>
+    <script type="text/javascript" src="{{asset('gfl/js/js-wp-embed.min.js')}}"></script>
+
+
+    <script type="text/javascript" src="{{asset('gfl/js/js-styling-2106.min.js')}}"></script>
     <script type="text/javascript" id="slb_context">
         /* <![CDATA[ */if ( !!window.jQuery ) {(function($){$(document).ready(function(){if ( !!window.SLB ) { {$.extend(SLB, {"context":["public","user_guest"]});} }})})(jQuery);}/* ]]> */
     </script>
+
     <script type="text/javascript">
-        document.body.className = document.body.className.replace("siteorigin-panels-before-js","");
+        document.body.className = document.body.className.replace        ("siteorigin-panels-before-js","");
     </script>
 </body>
 
