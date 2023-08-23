@@ -1475,7 +1475,7 @@ var revapi1,
 
     </div><!-- end of .boxed-container -->
 
-
+    @include('partials.chat')
 
     <link rel="stylesheet" property="stylesheet" id="rs-icon-set-fa-icon-css"
         href="{{asset('gfl/css/css-font-awesome.css')}}" type="text/css" media="all">
