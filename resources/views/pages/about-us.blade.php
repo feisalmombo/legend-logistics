@@ -781,32 +781,18 @@
                                                 <h2 style="background: white; margin: 0in 0in 7.5pt 0in;"><strong><span
                                                             style="font-size: 22.5pt; line-height: 107%; font-family: 'Arial',sans-serif; color: #ff4d00;">Our
                                                             team</span></strong></h2>
-                                                <p><strong>Managing Director</strong><br />
+                                                <p><strong>Director</strong><br />
+                                                    hamimu@legendlogistics.co.tz<br />
+                                                    Mobile: +255 776 666 663</p>
+                                                <p><strong>Director</strong><br />
+                                                    hussein@legendlogistics.co.tz<br />
+                                                    Mobile: +255 778 888 887</p>
+                                                <p><strong>Info</strong><br />
                                                     info@legendlogistics.co.tz<br />
-                                                    Cell: +250 724455241</p>
-                                                <p><strong>Executive Director</strong><br />
-                                                    jenny@legendlogistics.co.tz<br />
-                                                    Mobile: + 250 788885884</p>
-                                                <p><strong>Airport</strong><br />
-                                                    ops.aiport@legendlogistics.co.tz<br />
-                                                    Mobile: +250788460206</p>
-                                                <p><strong>Border clearance/RUSUMO/GATUNA/KAGITUMBA</strong><br />
-                                                    Ops.border@legendlogistics.co.tz<br />
-                                                    Mobile:</p>
-                                                <p><strong>Sales &amp; Marketing</strong><br />
-                                                    sales@legendlogistics.co.tz<br />
-                                                    Mobile: +250 788350343</p>
-                                                <p><strong>Kenya</strong></p>
-                                                <p><strong>Country Manager</strong><br />
-                                                    Nairobi- Kenya: +254722674553<br />
-                                                    Email: bnyongesa@legendlogistics.co.tz</p>
-                                                <p><strong>Democratic Republic of Congo</strong></p>
-                                                <p><strong>Country Manager</strong><br />
-                                                    DRC- Lubumbashi:+243997099973<br />
-                                                    Email: fkyoni@legendlogistics.co.tz</p>
-                                                <p><strong>Director Europe</strong><br />
-                                                    Email: egide.karuranga@legendlogistics.co.tz<br />
-                                                    Mobile: +32 488 37 91 45</p>
+                                                    Mobile: +255 776 666 663</p>
+                                                <p><strong>Export</strong><br />
+                                                    export@legendlogistics.co.tz<br />
+                                                    Mobile: +255 778 888 887</p>
                                                 <p>&nbsp;</p>
                                             </div>
                                         </div>
