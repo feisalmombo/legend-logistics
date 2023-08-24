@@ -829,7 +829,7 @@
         </div>
 
 
-        @include('partials.new-footer')
+    @include('partials.new-footer')
 
     </div><!-- end of .boxed-container -->
 
@@ -865,7 +865,7 @@
     </script>
 
     <script type="text/javascript">
-        document.body.className = document.body.className.replace        ("siteorigin-panels-before-js","");
+        document.body.className = document.body.className.replace("siteorigin-panels-before-js","");
     </script>
 </body>
 
