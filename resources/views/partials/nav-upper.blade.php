@@ -13,7 +13,7 @@
                         href="{{ url('/about-us') }}">About Us</a></li>
                 <li id="menu-item-791"
                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-791"><a
-                        href="#">Contact Us</a></li>
+                        href="{{ url('/contact-us') }}">Contact Us</a></li>
             </ul>
         </nav>
     </div>
