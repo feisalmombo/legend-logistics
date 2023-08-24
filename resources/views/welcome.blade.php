@@ -1507,7 +1507,7 @@ var revapi1,
     </script>
 
     <script type="text/javascript">
-        document.body.className = document.body.className.replace        ("siteorigin-panels-before-js","");
+        document.body.className = document.body.className.replace("siteorigin-panels-before-js","");
     </script>
 </body>
 
