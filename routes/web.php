@@ -102,8 +102,11 @@ Route::group(['middleware' => 'CheckUserStatus'], function () {
     });
 });
 
-            // About us
+            // About Us
             Route::resource('/about-us', 'AboutController');
+
+            // Contact Us
+            Route::resource('/contact-us', 'ContactController');
 
 
 
