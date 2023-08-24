@@ -21,7 +21,7 @@
     P. O Box 70963 Sokoine Drive Dar-es-Salaam - Tanzania<br>
 Mob: +255 776 666 663<br>
 Email:&nbsp;<a href="mailto:info@legendlogistics.co.tz" target="_blank" rel="noopener">info@legendlogistics.co.tz </a></p>
-</div></div></div><div class="col-xs-12  col-md-4"><div class="widget  widget_black_studio_tinymce"><div class="textwidget"><p><a class="icon-container  icon-container--square" href="" target="_self"><span class="fa fa-facebook"></span></a>&nbsp; &nbsp;<a class="icon-container  icon-container--square" href="" target="_blank"><span class="fa fa-instagram"></span></a> <a class="icon-container  icon-container--square" href="" target="_blank"><span class="fa fa-linkedin"></span></a> <a class="icon-container  icon-container--square" href="" target="_blank"><span class="fa fa-skype"></span></a> <a class="btn btn-primary" href="#" target="_blank">Contact Us Now</a></p>
+</div></div></div><div class="col-xs-12  col-md-4"><div class="widget  widget_black_studio_tinymce"><div class="textwidget"><p><a class="icon-container  icon-container--square" href="" target="_self"><span class="fa fa-facebook"></span></a>&nbsp; &nbsp;<a class="icon-container  icon-container--square" href="" target="_blank"><span class="fa fa-instagram"></span></a> <a class="icon-container  icon-container--square" href="" target="_blank"><span class="fa fa-linkedin"></span></a> <a class="icon-container  icon-container--square" href="" target="_blank"><span class="fa fa-skype"></span></a> <a class="btn btn-primary" href="{{ url('/contact-us') }}" target="_blank">Contact Us Now</a></p>
 </div></div></div>				</div>
         </div>
     </div>
