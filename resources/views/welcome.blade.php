@@ -1395,7 +1395,7 @@ var revapi1,
                                     <div class="call-to-action__text">
                                         Not sure which solution fits you business needs? </div>
                                     <div class="call-to-action__button">
-                                        <a class="btn btn-primary" href="#" target="_blank">Contact Us Now</a>
+                                        <a class="btn btn-primary" href="{{ url('/contact-us') }}" target="_blank">Contact Us Now</a>
                                     </div>
                                 </div>
                             </div>
