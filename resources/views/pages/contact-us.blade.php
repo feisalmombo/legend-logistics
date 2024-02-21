@@ -770,9 +770,12 @@
                                                 class="featured-widget panel-widget-style panel-widget-style-for-120-0-0-0">
                                                 <h3 class="widget-title"><span class="widget-title__inline">LEGEND LOGISTICS CONTACT US</span></h3>
                                                 <div class="textwidget">
-                                                    <p>Railway Street, Plot 158, Near Clock Tower Najmi Manzil Building,
+                                                    <p>Railway Street, Plot 158, <br />
+                                                        Near Clock Tower <br />
+                                                        Najmi Manzil Building, <br />
                                                         4th Floor, Room No 4B.<br />
-                                                        P. O Box 70044 Sokoine Drive Dar-es-Salaam - Tanzania<br />
+                                                        P. O Box 70044 Sokoine Drive Dar-es-Salaam, <br />
+                                                        Tanzania.<br />
                                                         Mob: +255 776 666 663<br />
                                                         Email: <a href="mailto:info@legendlogistics.co.tz"
                                                             target="_blank" rel="noopener">info@legendlogistics.co.tz</a>
@@ -804,7 +807,7 @@
                                                             <dt>Wednesday</dt>
                                                             <dd>8:00 - 17:30</dd>
                                                         </dl>
-                                                        <dl class="week-day  light-bg today">
+                                                        <dl class="week-day  light-bg">
                                                             <dt>Thursday</dt>
                                                             <dd>8:00 - 17:30</dd>
                                                         </dl>
