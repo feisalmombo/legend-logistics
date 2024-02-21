@@ -1425,7 +1425,7 @@ var revapi1,
                             <div class="textwidget">
                                 <p>Railway Street, Plot 158, Near Clock Tower Najmi Manzil Building,
                                     4th Floor.
-                                    P. O Box 70963 Sokoine Drive Dar-es-Salaam - Tanzania<br>
+                                    P. O Box 70044 Sokoine Drive Dar-es-Salaam - Tanzania<br>
                                     Mob: +255 776 666 663<br>
                             </div>
                         </div>
@@ -1457,8 +1457,8 @@ var revapi1,
                             data-index="16">
                             <h3 class="widget-title"><span class="widget-title__inline">__________________</span></h3>
                             <div class="textwidget">
-                                <p>Operations:<br>
-                                    Email: operations@legendlogistics.co.tz</p>
+                                <p>Tracking:<br>
+                                    Email: tracking@legendlogistics.co.tz</p>
                             </div>
                         </div>
                     </div>
