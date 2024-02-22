@@ -591,14 +591,14 @@
         }
 
         #pg-6-3>.panel-row-style {
-            background-image:url('{{ asset(' gfl/images/background-image.jpg')}}');
+            background-image:url('{{ asset('gfl/images/background-image.jpg')}}');
             background-position: center center;
             background-repeat: no-repeat;
             padding: 60px
         }
 
         #pg-6-6>.panel-row-style {
-            background-image:url('{{ asset(' gfl/images/background-image.jpg')}}');
+            background-image:url('{{ asset('gfl/images/background-image.jpg')}}');
             background-repeat: repeat;
             padding: 60px
         }
