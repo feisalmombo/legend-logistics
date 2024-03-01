@@ -1145,12 +1145,12 @@ var revapi1,
                                 <div class="page-box  page-box--block">
                                     <a class="page-box__picture" href="#"><img width="360" height="240"
                                             data-srcset="{{asset('gfl/images/freight-services.jpg')}}"
-                                            alt="Freight Services" data-src="#"
+                                            alt="Ocean Freight" data-src="#"
                                             data-sizes="(min-width: 992px) 360px, calc(100vw - 30px)"
                                             class="wp-post-image lazyload" src="#"></a>
                                     <div class="page-box__content">
-                                        <h5 class="page-box__title"><a href="#">Freight Services</a></h5>
-                                        <p>Freight Services is a leading innovator in customer driven freight services.
+                                        <h5 class="page-box__title"><a href="#">Ocean Freight</a></h5>
+                                        <p>Ocean Freight is a leading innovator in customer driven freight services.
                                             we successfully and creatively filled the need of a rapidly changing
                                             marketplace with a strategic focus to satisfy increasing customer
                                             requirements for premium transportation &hellip;</p>
@@ -1168,12 +1168,12 @@ var revapi1,
                                 <div class="page-box  page-box--block">
                                     <a class="page-box__picture" href="#"><img width="360" height="240"
                                             data-srcset="{{asset('gfl/images/land-services.jpg')}}"
-                                            alt="Land Freight Services" data-src="#"
+                                            alt="Road Transport" data-src="#"
                                             data-sizes="(min-width: 992px) 360px, calc(100vw - 30px)"
                                             class="wp-post-image lazyload" src="#"></a>
                                     <div class="page-box__content">
-                                        <h5 class="page-box__title"><a href="#">Land Freight Services</a></h5>
-                                        <p>Land freight involves the transportation of cargo by truck, trailers or rail
+                                        <h5 class="page-box__title"><a href="#">Road Transport</a></h5>
+                                        <p>Road Transport involves the transportation of cargo by truck, trailers or rail
                                             between specified locations. Within the &lsquo;Intermodal&rsquo; or
                                             interconnected aspects of Land, Sea and Air transportation, Land freight is
                                             a vital link. FTL : Full &hellip;</p>
@@ -1191,13 +1191,13 @@ var revapi1,
                                 <div class="page-box  page-box--block">
                                     <a class="page-box__picture" href="#"><img width="360" height="240"
                                             data-srcset="{{asset('gfl/images/customs-clearance-service.jpg')}}"
-                                            alt="Customs Clearance Services" data-src="#"
+                                            alt="Air Freight" data-src="#"
                                             data-sizes="(min-width: 992px) 360px, calc(100vw - 30px)"
                                             class="wp-post-image lazyload" src="#"></a>
                                     <div class="page-box__content">
-                                        <h5 class="page-box__title"><a href="#">Customs Clearance Services</a></h5>
-                                        <p>Customs Clearance is offered as part of our own services. We additionally
-                                            offer a Stand-Alone, full Customs Clearance &amp; Brokerage service for
+                                        <h5 class="page-box__title"><a href="#">Air Freight</a></h5>
+                                        <p>Air Freight is offered as part of our own services. We additionally
+                                            offer a Stand-Alone, full Air Freight &amp; Brokerage service for
                                             Importers, Exporters, Local and Overseas Cargo Agents. We do not need to
                                             carry your goods to clear &hellip;</p>
                                         <p><a href="#" class="read-more  read-more--page-box">Read more</a></p>
@@ -1214,12 +1214,12 @@ var revapi1,
                                 <div class="page-box  page-box--block">
                                     <a class="page-box__picture" href="#"><img width="360" height="240"
                                             data-srcset="{{asset('gfl/images/cargo-insurance.jpg')}}"
-                                            alt="Cargo Insurance" data-src="#"
+                                            alt="Railway Transport" data-src="#"
                                             data-sizes="(min-width: 992px) 360px, calc(100vw - 30px)"
                                             class="wp-post-image lazyload" src="#"></a>
                                     <div class="page-box__content">
-                                        <h5 class="page-box__title"><a href="#">Cargo Insurance</a></h5>
-                                        <p>Cargo Insurance&nbsp;provides&nbsp;coverage&nbsp;against all risks of
+                                        <h5 class="page-box__title"><a href="#">Railway Transport</a></h5>
+                                        <p>Railway Transport&nbsp;provides&nbsp;coverage&nbsp;against all risks of
                                             physical loss or damage to&nbsp;freight&nbsp;during the shipment from any
                                             external cause during shipping, whether by land, sea or air. Also, known
                                             as&nbsp;Freight Insurance, it covers transits carried &hellip;</p>
