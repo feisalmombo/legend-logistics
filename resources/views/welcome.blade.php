@@ -1317,11 +1317,10 @@ var revapi1,
                                                         <span class="wpcf7-form-control-wrap menu-354"><select
                                                                 name="menu-354" class="wpcf7-form-control wpcf7-select"
                                                                 aria-invalid="false">
-                                                                <option value="CUSTOMS CLEARANCE">CUSTOMS CLEARANCE
-                                                                </option>
-                                                                <option value="CARGO INSURANCE">CARGO INSURANCE</option>
-                                                                <option value="LAND FREIGHT">LAND FREIGHT</option>
-                                                                <option value="FREIGHT">FREIGHT</option>
+                                                                <option value="Ocean Freight">Ocean Freight</option>
+                                                                <option value="Road Transport">Road Transport</option>
+                                                                <option value="Air Freight">Air Freight</option>
+                                                                <option value="Railway Transport">Railway Transport</option>
                                                             </select></span>
                                                     </div>
                                                     <div class="col-xs-12  col-md-6">
@@ -1424,7 +1423,7 @@ var revapi1,
                                 <p>Railway Street, Plot 158, Near Clock Tower Najmi Manzil Building,
                                     4th Floor.
                                     P. O Box 70044 Sokoine Drive Dar-es-Salaam - Tanzania<br>
-                                    Mob: +255 776 666 663<br>
+                                    Mob: +255 776 666 663 / +255 778 888 887<br>
                             </div>
                         </div>
                     </div>
