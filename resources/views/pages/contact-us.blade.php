@@ -768,7 +768,7 @@
                                             data-index="0">
                                             <div
                                                 class="featured-widget panel-widget-style panel-widget-style-for-120-0-0-0">
-                                                <h3 class="widget-title"><span class="widget-title__inline">LEGEND LOGISTICS CONTACT US</span></h3>
+                                                <h3 class="widget-title"><span class="widget-title__inline">CONTACT US</span></h3>
                                                 <div class="textwidget">
                                                     <p>Railway Street, Plot 158, <br />
                                                         Near Clock Tower <br />
@@ -904,7 +904,7 @@
                                                                         class="wpcf7-form-control wpcf7-textarea"
                                                                         aria-invalid="false"
                                                                         placeholder="Message"></textarea></span><br />
-                                                                <input type="submit" value="SEND MESSAGE"
+                                                                <input type="submit" value="SEND MESSAGE" disabled="disabled"
                                                                     class="wpcf7-form-control wpcf7-submit btn btn-primary" />
                                                             </div>
                                                         </div>

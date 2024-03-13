@@ -1336,7 +1336,7 @@ var revapi1,
                                                                 placeholder="Message"></textarea></span>
                                                     </div>
                                                     <div class="col-xs-12  col-md-12">
-                                                        <input type="submit" value="SEND MESSAGE"
+                                                        <input type="submit" value="SEND MESSAGE" disabled="disabled"
                                                             class="wpcf7-form-control wpcf7-submit btn btn-primary pull-right">
                                                     </div>
                                                 </div>
@@ -1371,9 +1371,15 @@ var revapi1,
                                     <div class="logo-panel">
                                         <div class="row">
                                             <div class="col-xs-12 col-sm-2"></div>
-                                            <div class="col-xs-12 col-sm-2"><img alt="Client1"
-                                                    data-src="{{asset('gfl/images/freightnet.png')}}" class="lazyload"
-                                                    src="#"></div>
+                                            <div class="col-xs-6 col-sm-2"><img alt="Tengwa Africa"
+                                                    data-src="{{asset('gfl/images/partners/tengwa-africa.png')}}" class="lazyload"
+                                                    src="#">
+                                            </div>
+
+                                            <div class="col-xs-6 col-sm-2"><img alt="United Alloys Zambia Limited"
+                                                data-src="{{asset('gfl/images/partners/united-alloys-zambia-ltd.png')}}" class="lazyload"
+                                                src="#">
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
