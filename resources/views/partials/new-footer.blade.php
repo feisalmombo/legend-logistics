@@ -28,7 +28,7 @@ Email:&nbsp;<a href="mailto:info@legendlogistics.co.tz" target="_blank" rel="noo
             <div class="footer-bottom">
         <div class="container">
             <div class="footer-bottom__left">
-                Developed by  <a href="#">FEISAL SULEIMAN MOMBO</a>
+                Developed by  <a href="https://github.com/feisalmombo" target="_blank">FEISAL SULEIMAN MOMBO</a>
             </div>
             <div class="footer-bottom__right">
                 Copyright &copy; {{ date('Y') }} Legend Logistics. All rights reserved.

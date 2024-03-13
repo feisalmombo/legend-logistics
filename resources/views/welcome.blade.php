@@ -1190,7 +1190,7 @@ var revapi1,
 
                                 <div class="page-box  page-box--block">
                                     <a class="page-box__picture" href="#"><img width="360" height="240"
-                                            data-srcset="{{asset('gfl/images/customs-clearance-service.jpg')}}"
+                                            data-srcset="{{asset('gfl/images/air-freight.jpg')}}"
                                             alt="Air Freight" data-src="#"
                                             data-sizes="(min-width: 992px) 360px, calc(100vw - 30px)"
                                             class="wp-post-image lazyload" src="#"></a>
@@ -1213,7 +1213,7 @@ var revapi1,
 
                                 <div class="page-box  page-box--block">
                                     <a class="page-box__picture" href="#"><img width="360" height="240"
-                                            data-srcset="{{asset('gfl/images/cargo-insurance.jpg')}}"
+                                            data-srcset="{{asset('gfl/images/railway-transport.jpg')}}"
                                             alt="Railway Transport" data-src="#"
                                             data-sizes="(min-width: 992px) 360px, calc(100vw - 30px)"
                                             class="wp-post-image lazyload" src="#"></a>
@@ -1390,9 +1390,7 @@ var revapi1,
                                 data-index="11">
                                 <div class="call-to-action">
                                     <div class="call-to-action__text">
-                                        Not sure which solution fits you business needs? </div>
-                                    <div class="call-to-action__button">
-                                        <a class="btn btn-primary" href="{{ url('/contact-us') }}" target="_blank">Contact Us Now</a>
+
                                     </div>
                                 </div>
                             </div>
