@@ -119,13 +119,13 @@
 
             .header__container,
             .is-sticky-nav .header__navigation {
-                background-color: #1f425d;
+                background-color: #201E1E;
             }
         }
 
         .navbar-toggle,
         .jumbotron {
-            background-color: #1f425d;
+            background-color: #201E1E;
         }
 
         .navbar-toggle:hover {
@@ -136,7 +136,7 @@
 
             .social-icons__link,
             .social-icons__link:hover {
-                color: #1f425d;
+                color: #201E1E;
             }
         }
 
@@ -173,7 +173,7 @@
             .main-navigation .sub-menu>li>a:hover,
             .main-navigation .menu-item-has-children:hover::after,
             .main-navigation .sub-menu .menu-item-has-children:hover::after {
-                color: #1f425d;
+                color: #201E1E;
             }
         }
 
@@ -187,7 +187,7 @@
 
             .main-navigation>li:hover>a,
             .main-navigation>li:focus>a {
-                color: #1f425d;
+                color: #201E1E;
             }
         }
 
@@ -199,7 +199,7 @@
 
         @media (max-width: 991px) {
             .main-navigation .sub-menu>li>a:hover {
-                color: #1f425d;
+                color: #201E1E;
             }
         }
 
@@ -357,12 +357,12 @@
         .footer::after,
         .footer-top::before,
         .footer-top::after {
-            background-color: #1f425d;
+            background-color: #201E1E;
         }
 
         .footer .icon-container--square,
         .footer .icon-container--circle {
-            color: #1f425d;
+            color: #201E1E;
         }
 
         .footer-top__headings {
