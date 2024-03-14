@@ -803,14 +803,14 @@
                                             data-index="1">
                                             <div class="textwidget">
                                                 <p><img alt="" width="1061" height="601"
-                                                        data-src="{{asset('gfl/images/container-ocean.jpg')}}"
+                                                        data-src="{{asset('gfl/images/about/land-services.jpg')}}"
                                                         class="alignnone wp-image-760 lazyload" src="" />
                                                 </p>
                                                 <p><img alt="" width="965" height="547"
-                                                        data-src="{{asset('gfl/images/truck-legend.jpg')}}"
+                                                        data-src="{{asset('gfl/images/about/ocean-freight.jpg')}}"
                                                         class="alignnone wp-image-750 lazyload" src="" /><img alt=""
                                                         width="951" height="539"
-                                                        data-src="{{asset('gfl/images/truck2.jpg')}}"
+                                                        data-src="{{asset('gfl/images/about/air-freight.jpg')}}"
                                                         class="alignnone  wp-image-755 lazyload" src="" />
                                                 </p>
                                             </div>
