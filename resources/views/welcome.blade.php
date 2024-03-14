@@ -379,7 +379,7 @@
         }
 
         .footer-bottom {
-            background-color: #162f42;
+            background-color: #0c2233;
         }
 
         .footer-bottom {

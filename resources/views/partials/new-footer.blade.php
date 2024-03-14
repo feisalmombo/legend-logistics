@@ -5,9 +5,9 @@
         <div class="col-xs-12  col-md-4">
             <div class="widget  widget_black_studio_tinymce">
                 <div class="textwidget">
-                    {{--  <p><img alt="Legend Logistics" width="351" height="108" data-src="#" class="alignnone wp-image-786 lazyload" src="#" alt="Legend Logistics Company Limited">
-                </p>  --}}
-                <h1 style="color: white">Legend Logistics</h1>
+                     <p><img alt="Legend Logistics" width="218" height="67" data-src="{{asset('gfl/images/logo/legend-logo.png')}}" class="alignnone wp-image-786 lazyload" src="#" alt="Legend Logistics Company Limited">
+                     </p>
+                {{-- <h1 style="color: white">Legend Logistics</h1> --}}
 <p>&nbsp;</p>
 </div></div></div><div class="col-xs-12  col-md-2"><div class="widget  widget_nav_menu">
     <h6 class="footer-top__headings">Our Services</h6><div class="menu-services-menu-container"><ul id="menu-services-menu" class="menu">
