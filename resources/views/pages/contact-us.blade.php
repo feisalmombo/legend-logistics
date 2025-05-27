@@ -2,23 +2,13 @@
 <html lang="en-US">
 
 <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="pingback" href="https://umojalogistics.co.rw/xmlrpc.php" />
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>Contact Us &#8211; Umoja Worldwide Logistics </title>
-    <link rel='dns-prefetch' href='//fonts.googleapis.com' />
-    <link rel='dns-prefetch' href='//s.w.org' />
-    <link rel="alternate" type="application/rss+xml" title="Umoja Worldwide Logistics  &raquo; Feed"
-        href="https://umojalogistics.co.rw/index.php/feed/" />
-    <link rel="alternate" type="application/rss+xml" title="Umoja Worldwide Logistics  &raquo; Comments Feed"
-        href="https://umojalogistics.co.rw/index.php/comments/feed/" />
-    <link rel="alternate" type="application/rss+xml" title="Umoja Worldwide Logistics  &raquo; Contact Us Comments Feed"
-        href="https://umojalogistics.co.rw/index.php/contact-us/feed/" />
-    <script type="text/javascript">
-        window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/umojalogistics.co.rw\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.2.17"}};
-			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])?!1:!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
-    </script>
+    <title>Legend Logistics Company Limited - Contact Us</title>
+    <link rel="dns-prefetch" href="//fonts.googleapis.com">
+    <link rel="dns-prefetch" href="//s.w.org">
+
     <style type="text/css">
         img.wp-smiley,
         img.emoji {
@@ -33,26 +23,24 @@
             padding: 0 !important;
         }
     </style>
-    <link rel='stylesheet' id='wp-block-library-css'
-        href='https://umojalogistics.co.rw/wp-includes/css/dist/block-library/style.min.css?ver=5.2.17' type='text/css'
-        media='all' />
-    <link rel='stylesheet' id='contact-form-7-css'
-        href='https://umojalogistics.co.rw/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.3'
-        type='text/css' media='all' />
-    <link rel='stylesheet' id='rs-plugin-settings-css'
-        href='https://umojalogistics.co.rw/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.4.8.3'
-        type='text/css' media='all' />
-    <style id='rs-plugin-settings-inline-css' type='text/css'>
+
+    <link rel="stylesheet" id="wp-block-library-css" href="{{asset('gfl/css/block-library-style.min.css')}}"
+        type="text/css" media="all">
+    <link rel="stylesheet" id="contact-form-7-css" href="{{asset('gfl/css/css-styles.css')}}" type="text/css"
+        media="all">
+    <link rel="stylesheet" id="rs-plugin-settings-css" href="{{asset('gfl/css/css-settings.css')}}" type="text/css"
+        media="all">
+    <style id="rs-plugin-settings-inline-css" type="text/css">
         #rs-demo-id {}
     </style>
-    <link rel='stylesheet' id='siteorigin-panels-front-css'
-        href='https://umojalogistics.co.rw/wp-content/plugins/siteorigin-panels/css/front-flex.min.css?ver=2.10.6'
-        type='text/css' media='all' />
-    <link rel='stylesheet' id='qlwapp-css'
-        href='https://umojalogistics.co.rw/wp-content/plugins/wp-whatsapp-chat/assets/css/qlwapp.min.css?ver=4.3.0'
-        type='text/css' media='all' />
-    <link rel='stylesheet' id='cargopress-main-css'
-        href='https://umojalogistics.co.rw/wp-content/themes/umoja/style.css?ver=1.11.1' type='text/css' media='all' />
+
+    <link rel="stylesheet" id="siteorigin-panels-front-css" href="{{asset('gfl/css/css-front-flex.min.css')}}"
+        type="text/css" media="all">
+    <link rel="stylesheet" id="qlwapp-css" href="{{asset('gfl/css/css-qlwapp.min.css')}}" type="text/css" media="all">
+    <link rel="stylesheet" id="cargopress-main-css" href="{{asset('gfl/css/gfl-style.css')}}" type="text/css"
+        media="all">
+
+
     <style id='cargopress-main-inline-css' type='text/css'>
         /* WP Customizer start */
         .top,
@@ -440,41 +428,22 @@
             }
         }
     </style>
-    <link rel='stylesheet' id='google-fonts-css'
-        href='//fonts.googleapis.com/css?family=Roboto%3A400%2C700%7CSource+Sans+Pro%3A700%2C900&#038;subset=latin'
-        type='text/css' media='all' />
-    <link rel='stylesheet' id='slb_core-css'
-        href='https://umojalogistics.co.rw/wp-content/plugins/simple-lightbox/client/css/app.css?ver=2.7.1'
-        type='text/css' media='all' />
-    <script type='text/javascript' src='https://umojalogistics.co.rw/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'>
-    </script>
-    <script type='text/javascript'
-        src='https://umojalogistics.co.rw/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
-    <script type='text/javascript'
-        src='https://umojalogistics.co.rw/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.4.8.3'>
-    </script>
-    <script type='text/javascript'
-        src='https://umojalogistics.co.rw/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.4.8.3'>
-    </script>
-    <script type='text/javascript'
-        src='https://umojalogistics.co.rw/wp-content/themes/umoja/assets/js/modernizr.custom.24530.js'></script>
-    <script type='text/javascript'
-        src='https://umojalogistics.co.rw/wp-content/themes/umoja/bower_components/picturefill/dist/picturefill.min.js?ver=1.2.0'>
-    </script>
-    <link rel='https://api.w.org/' href='https://umojalogistics.co.rw/index.php/wp-json/' />
-    <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://umojalogistics.co.rw/xmlrpc.php?rsd" />
-    <link rel="wlwmanifest" type="application/wlwmanifest+xml"
-        href="https://umojalogistics.co.rw/wp-includes/wlwmanifest.xml" />
-    <meta name="generator" content="WordPress 5.2.17" />
-    <link rel="canonical" href="https://umojalogistics.co.rw/index.php/contact-us/" />
-    <link rel='shortlink' href='https://umojalogistics.co.rw/?p=120' />
-    <link rel="alternate" type="application/json+oembed"
-        href="https://umojalogistics.co.rw/index.php/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fumojalogistics.co.rw%2Findex.php%2Fcontact-us%2F" />
-    <link rel="alternate" type="text/xml+oembed"
-        href="https://umojalogistics.co.rw/index.php/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fumojalogistics.co.rw%2Findex.php%2Fcontact-us%2F&#038;format=xml" />
+
+    <link rel="stylesheet" id="google-fonts-css"
+        href="//fonts.googleapis.com/css?family=Roboto%3A400%2C700%7CSource+Sans+Pro%3A700%2C900&amp;subset=latin"
+        type="text/css" media="all">
+    <link rel="stylesheet" id="slb_core-css" href="{{asset('gfl/css/css-app.css')}}" type="text/css" media="all">
+    <script type="text/javascript" src="{{asset('gfl/js/jquery-jquery.js')}}"></script>
+    <script type="text/javascript" src="{{asset('gfl/js/jquery-jquery-migrate.min.js')}}"></script>
+    <script type="text/javascript" src="{{asset('gfl/js/js-jquery.themepunch.tools.min.js')}}"></script>
+    <script type="text/javascript" src="{{asset('gfl/js/js-jquery.themepunch.revolution.min.js')}}"></script>
+    <script type="text/javascript" src="{{asset('gfl/js/js-modernizr.custom.24530.js')}}"></script>
+    <script type="text/javascript" src="{{asset('gfl/js/dist-picturefill.min.js')}}"></script>
+
     <script>
         document.documentElement.className = document.documentElement.className.replace( 'no-js', 'js' );
     </script>
+
     <style>
         .no-js img.lazyload {
             display: none;
@@ -553,14 +522,7 @@
             }
         }
     </style>
-    <link rel="icon" href="https://umojalogistics.co.rw/wp-content/uploads/2019/07/cropped-fav-32x32.png"
-        sizes="32x32" />
-    <link rel="icon" href="https://umojalogistics.co.rw/wp-content/uploads/2019/07/cropped-fav-192x192.png"
-        sizes="192x192" />
-    <link rel="apple-touch-icon-precomposed"
-        href="https://umojalogistics.co.rw/wp-content/uploads/2019/07/cropped-fav-180x180.png" />
-    <meta name="msapplication-TileImage"
-        content="https://umojalogistics.co.rw/wp-content/uploads/2019/07/cropped-fav-270x270.png" />
+
     <script type="text/javascript">
         function setREVStartSize(e){
 						try{ e.c=jQuery(e.c);var i=jQuery(window).width(),t=9999,r=0,n=0,l=0,f=0,s=0,h=0;
@@ -585,165 +547,22 @@
 <body data-rsssl=1 class="page-template-default page page-id-120 siteorigin-panels siteorigin-panels-before-js">
     <div class="boxed-container">
 
-        <div class="top">
-            <div class="container">
-                <!-- Top Tagline from WordPress -->
-                <div class="top__tagline">
-                    All about Logistics </div>
-                <!-- Top Menu -->
-                <nav class="top__menu" role="navigation" aria-label="Top Menu">
-                    <ul id="menu-top-menu" class="top-navigation  js-dropdown" role="menubar">
-                        <li id="menu-item-793"
-                            class="menu-item menu-item-type-custom menu-item-object-custom menu-item-793"><a
-                                href="https://umojalogistics.co.rw/webmail">Webmail</a></li>
-                        <li id="menu-item-824"
-                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-824"><a
-                                href="https://umojalogistics.co.rw/index.php/about-us/">About Us</a></li>
-                        <li id="menu-item-791"
-                            class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-120 current_page_item menu-item-791">
-                            <a href="https://umojalogistics.co.rw/index.php/contact-us/">Contact Us</a></li>
-                    </ul>
-                </nav>
-            </div>
-        </div>
+        @include('partials.nav-upper')
 
-        <div class="header__container">
-            <div class="container">
-                <header class="header" role="banner">
-                    <div class="header__logo">
-                        <a href="https://umojalogistics.co.rw">
-                            <img alt="Umoja Worldwide Logistics "
-                                data-srcset="https://umojalogistics.co.rw/wp-content/uploads/2019/07/UMOJA-13-header.png"
-                                width="218" height="67"
-                                data-src="https://umojalogistics.co.rw/wp-content/uploads/2019/07/UMOJA-13-header.png"
-                                class="img-responsive lazyload"
-                                src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
-                        </a>
-                        <button type="button" class="navbar-toggle" data-toggle="collapse"
-                            data-target="#cargopress-navbar-collapse">
-                            <span class="navbar-toggle__text">MENU</span>
-                            <span class="navbar-toggle__icon-bar">
-                                <span class="icon-bar"></span>
-                                <span class="icon-bar"></span>
-                                <span class="icon-bar"></span>
-                            </span>
-                        </button>
-                    </div>
-                    <div class="header__navigation  js-sticky-offset">
-                        <nav class="collapse  navbar-collapse" role="navigation" aria-label="Main Menu"
-                            id="cargopress-navbar-collapse">
-                            <ul id="menu-main-menu" class="main-navigation  js-main-nav  js-dropdown" role="menubar">
-                                <li id="menu-item-12"
-                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-12">
-                                    <a href="https://umojalogistics.co.rw/">Home</a></li>
-                                <li id="menu-item-822"
-                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-822"><a
-                                        href="https://umojalogistics.co.rw/index.php/about-us/">About Us</a></li>
-                                <li id="menu-item-84"
-                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-84"
-                                    aria-haspopup="true" aria-expanded="false" tabindex="0"><a
-                                        href="https://umojalogistics.co.rw/index.php/services/">Our Services</a>
-                                    <ul class="sub-menu">
-                                        <li id="menu-item-103"
-                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-103">
-                                            <a href="https://umojalogistics.co.rw/index.php/services/ground-transport/">Land
-                                                Freight Services</a></li>
-                                        <li id="menu-item-104"
-                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-104">
-                                            <a href="https://umojalogistics.co.rw/index.php/services/cargo/">Freight
-                                                Services</a></li>
-                                        <li id="menu-item-105"
-                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-105">
-                                            <a href="https://umojalogistics.co.rw/index.php/services/warehousing/">Cargo
-                                                Insurance</a></li>
-                                        <li id="menu-item-108"
-                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-108">
-                                            <a href="https://umojalogistics.co.rw/index.php/services/storage/">Customs
-                                                Clearance Services</a></li>
-                                    </ul>
-                                </li>
-                                <li id="menu-item-26"
-                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26"><a
-                                        href="https://umojalogistics.co.rw/index.php/news/">Our Blog</a></li>
-                                <li id="menu-item-123"
-                                    class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-120 current_page_item menu-item-123">
-                                    <a href="https://umojalogistics.co.rw/index.php/contact-us/">Contact Us</a></li>
-                            </ul>
-                        </nav>
-                    </div>
-                    <div class="header__widgets">
-                        <div class="widget  widget-icon-box">
-
-                            <div class="icon-box">
-
-                                <i class="fa  fa-phone"></i>
-                                <h4 class="icon-box__title">Call Us Anytime</h4>
-                                <span class="icon-box__subtitle">+250 724455241 </span>
-
-                            </div>
-
-                        </div>
-                        <div class="widget  widget-icon-box">
-
-                            <div class="icon-box">
-
-                                <i class="fa  fa-clock-o"></i>
-                                <h4 class="icon-box__title">Opening Time</h4>
-                                <span class="icon-box__subtitle">08:00 - 18:00</span>
-
-                            </div>
-
-                        </div>
-                        <div class="widget  widget-icon-box">
-
-                            <div class="icon-box">
-
-                                <i class="fa  fa-envelope-o"></i>
-                                <h4 class="icon-box__title">Email Us</h4>
-                                <span class="icon-box__subtitle">info@umojalogistics.co.rw </span>
-
-                            </div>
-
-                        </div>
-                        <div class="widget  widget_text">
-                            <div class="textwidget"><a class="btn    btn-info"
-                                    href="https://umojalogistics.co.rw/index.php/contact-us/" target="_self"
-                                    rel="noopener noreferrer">REQUEST A QUOTE</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="header__navigation-widgets">
-                        <div class="widget  widget-social-icons">
-
-                            <a class="social-icons__link" href="https://fb.me/umojalogistics" target="_blank"><i
-                                    class="fa  fa-facebook"></i></a>
-                            <a class="social-icons__link" href="https://join.skype.com/invite/d94D41oPw74J"
-                                target="_blank"><i class="fa  fa-skype"></i></a>
-                            <a class="social-icons__link" href="https://www.instagram.com/Umojalogistics/"
-                                target="_blank"><i class="fa  fa-instagram"></i></a>
-                            <a class="social-icons__link"
-                                href="https://www.linkedin.com/in/umoja-logistics-rwanda-11a20118a/" target="_blank"><i
-                                    class="fa  fa-linkedin"></i></a>
-
-                        </div>
-                    </div>
-                </header>
-            </div>
-        </div>
+        @include('partials.header-container')
 
         <div class="main-title" style="">
             <div class="container">
 
                 <h1 class="main-title__primary">Contact Us</h1>
-                <h3 class="main-title__secondary">We are waiting you to get in touch with us</h3>
             </div>
         </div>
         <div class="breadcrumbs">
             <div class="container">
                 <!-- Breadcrumb NavXT 6.3.0 -->
                 <span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage"
-                        title="Go to Umoja Worldwide Logistics ." href="https://umojalogistics.co.rw" class="home"><span
-                            property="name">Umoja Worldwide Logistics </span></a>
+                        title="Go to Legend Logistics Company Limited ." href="{{ url('/') }}" class="home"><span
+                            property="name">Legend Logistics </span></a>
                     <meta property="position" content="1">
                 </span><span class="post post-page current-item">Contact Us</span>
             </div>
@@ -763,15 +582,13 @@
                                             data-index="0">
                                             <div
                                                 class="featured-widget panel-widget-style panel-widget-style-for-120-0-0-0">
-                                                <h3 class="widget-title"><span class="widget-title__inline">UMOJA
-                                                        WORLDWIDE LOGISTICS CONTACT</span></h3>
+                                                <h3 class="widget-title"><span class="widget-title__inline">LEGEND
+                                                        LOGISTICS CONTACT</span></h3>
                                                 <div class="textwidget">
-                                                    <p>MIC Building, 1st Floor,<br />
-                                                        Kigali-Rwanda<br />
-                                                        P. O Box 3194<br />
-                                                        Mob: +250 7224455241<br />
-                                                        Email: <a href="mailto:info@umojalogistics.co.rw"
-                                                            target="_blank" rel="noopener">info@umojalogistics.co.rw</a>
+                                                    <p>Railway Street, Plot 158, Near Clock Tower Najmi Manzil Building, 4th Floor. P. O Box 70044 Sokoine Drive Dar-es-Salaam - Tanzania <br/>
+                                                        Mob: +255 776 666 663<br />
+                                                        Email: <a href="mailto:info@legendlogistics.co.tz"
+                                                            target="_blank" rel="noopener">info@legendlogistics.co.tz</a>
                                                     </p>
                                                 </div>
                                             </div>
@@ -790,27 +607,27 @@
                                                     <div class="inner-bg">
                                                         <dl class="week-day ">
                                                             <dt>Monday</dt>
-                                                            <dd>8:00 - 16:00</dd>
+                                                            <dd>8:00 - 17:30</dd>
                                                         </dl>
                                                         <dl class="week-day  light-bg">
                                                             <dt>Tuesday</dt>
-                                                            <dd>8:00 - 16:00</dd>
+                                                            <dd>8:00 - 17:30</dd>
                                                         </dl>
                                                         <dl class="week-day ">
                                                             <dt>Wednesday</dt>
-                                                            <dd>8:00 - 16:00</dd>
+                                                            <dd>8:00 - 17:30</dd>
                                                         </dl>
-                                                        <dl class="week-day  light-bg today">
+                                                        <dl class="week-day">
                                                             <dt>Thursday</dt>
-                                                            <dd>8:00 - 16:00</dd>
+                                                            <dd>8:00 - 17:30</dd>
                                                         </dl>
                                                         <dl class="week-day ">
                                                             <dt>Friday</dt>
-                                                            <dd>8:00 - 16:00</dd>
+                                                            <dd>8:00 - 17:30</dd>
                                                         </dl>
                                                         <dl class="week-day  light-bg">
                                                             <dt>Saturday</dt>
-                                                            <dd>8:00 - 16:00</dd>
+                                                            <dd>8:00 - 17:30</dd>
                                                         </dl>
                                                         <dl class="week-day  closed">
                                                             <dt>Sunday</dt>
@@ -829,14 +646,14 @@
                                             class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child"
                                             data-index="2">
                                             <h3 class="widget-title"><span class="widget-title__inline">SEND US AN
-                                                    EMAIL, OR THREE</span></h3>
+                                                    EMAIL</span></h3>
                                             <div class="textwidget">
                                                 <p>&nbsp;</p>
                                                 <p>
                                                 <div role="form" class="wpcf7" id="wpcf7-f122-p120-o1" lang="en-US"
                                                     dir="ltr">
                                                     <div class="screen-reader-response"></div>
-                                                    <form action="/index.php/contact-us/#wpcf7-f122-p120-o1"
+                                                    <form action="#"
                                                         method="post" class="wpcf7-form" novalidate="novalidate">
                                                         <div style="display: none;">
                                                             <input type="hidden" name="_wpcf7" value="122" />
@@ -898,7 +715,7 @@
                                                                         aria-invalid="false"
                                                                         placeholder="Message"></textarea></span><br />
                                                                 <input type="submit" value="SEND MESSAGE"
-                                                                    class="wpcf7-form-control wpcf7-submit btn btn-primary" />
+                                                                    class="wpcf7-form-control wpcf7-submit btn btn-primary" disabled/>
                                                             </div>
                                                         </div>
                                                         <div class="wpcf7-response-output wpcf7-display-none"></div>
@@ -919,139 +736,6 @@
 
             </div>
         </div>
-
-
-        <footer class="footer" role="contentinfo">
-            <div class="footer-top">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-xs-12  col-md-4">
-                            <div class="widget  widget_black_studio_tinymce">
-                                <div class="textwidget">
-                                    <p><img alt="" width="351" height="108"
-                                            data-src="https://umojalogistics.co.rw/wp-content/uploads/2019/07/UMOJA-foo.png"
-                                            class="alignnone wp-image-786 lazyload"
-                                            src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
-                                    </p>
-                                    <p>&nbsp;</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-xs-12  col-md-2">
-                            <div class="widget  widget_nav_menu">
-                                <h6 class="footer-top__headings">OUR SERVICES</h6>
-                                <div class="menu-services-menu-container">
-                                    <ul id="menu-services-menu" class="menu">
-                                        <li id="menu-item-111"
-                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-111">
-                                            <a href="https://umojalogistics.co.rw/index.php/services/">All Services</a>
-                                        </li>
-                                        <li id="menu-item-112"
-                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-112">
-                                            <a href="https://umojalogistics.co.rw/index.php/services/ground-transport/">Land
-                                                Freight Services</a></li>
-                                        <li id="menu-item-113"
-                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113">
-                                            <a href="https://umojalogistics.co.rw/index.php/services/cargo/">Freight
-                                                Services</a></li>
-                                        <li id="menu-item-114"
-                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-114">
-                                            <a href="https://umojalogistics.co.rw/index.php/services/warehousing/">Cargo
-                                                Insurance</a></li>
-                                        <li id="menu-item-117"
-                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-117">
-                                            <a href="https://umojalogistics.co.rw/index.php/services/storage/">Customs
-                                                Clearance Services</a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-xs-12  col-md-2">
-                            <div class="widget  widget_black_studio_tinymce">
-                                <h6 class="footer-top__headings">Address</h6>
-                                <div class="textwidget">
-                                    <p>MIC Building, 1st Floor,<br />
-                                        Kigali-Rwanda<br />
-                                        P. O Box 3194<br />
-                                        Mob: +250 7224455241<br />
-                                        Email: <a href="mailto:info@umojalogistics.co.rw" target="_blank"
-                                            rel="noopener">info@umojalogistics.co.rw</a></p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-xs-12  col-md-4">
-                            <div class="widget  widget_black_studio_tinymce">
-                                <div class="textwidget">
-                                    <p><a class="icon-container  icon-container--square"
-                                            href="https://fb.me/umojalogistics" target="_self"><span
-                                                class="fa fa-facebook"></span></a> <a
-                                            class="icon-container  icon-container--square"
-                                            href="https://www.instagram.com/Umojalogistics/" target="_blank"><span
-                                                class="fa fa-instagram"></span></a> <a
-                                            class="icon-container  icon-container--square"
-                                            href="https://www.linkedin.com/in/umoja-logistics-rwanda-11a20118a/"
-                                            target="_blank"><span class="fa fa-linkedin"></span></a> <a
-                                            class="icon-container  icon-container--square" href="http://Info_1148987"
-                                            target="_blank"><span class="fa fa-skype"></span></a> <a
-                                            class="btn    btn-primary" href="#" target="_blank">Contact Us Now</a></p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="footer-bottom">
-                <div class="container">
-                    <div class="footer-bottom__left">
-                        Developed by <a href="#">Elie_ihi</a> </div>
-                    <div class="footer-bottom__right">
-                        Copyright © 2022 Umoja Worldwide Logistics. All rights reserved. </div>
-                </div>
-            </div>
-        </footer>
-    </div><!-- end of .boxed-container -->
-
-    <div id="qlwapp" class="qlwapp-free qlwapp-button qlwapp-bottom-right qlwapp-all qlwapp-rounded">
-        <div class="qlwapp-container">
-            <div class="qlwapp-box">
-                <div class="qlwapp-header">
-                    <i class="qlwapp-close" data-action="close">&times;</i>
-                    <div class="qlwapp-description">
-                        <h3>Hello!</h3>
-                        <p>chat on WhatsApp or send us an email to <a
-                                href="mailto:info@umojalogistics.co.rw">info@umojalogistics.co.rw </a></p>
-                    </div>
-                </div>
-                <div class="qlwapp-body">
-                    <a class="qlwapp-account" data-action="open" data-phone="+250783940444" data-message="Hello!"
-                        href="javascript:void(0);" target="_blank">
-                        <div class="qlwapp-avatar">
-                            <div class="qlwapp-avatar-container">
-                                <img alt="Theoneste "
-                                    data-src="https://umojalogistics.co.rw/wp-content/uploads/2019/07/bossbusinesspeoplebusinessmanlawyerownerpersonicon-1320086651899415591.png"
-                                    class="lazyload"
-                                    src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
-                            </div>
-                        </div>
-                        <div class="qlwapp-info">
-                            <span class="qlwapp-label">Support</span>
-                            <span class="qlwapp-name">Theoneste </span>
-                        </div>
-                    </a>
-                </div>
-                <div class="qlwapp-footer">
-                    <p>Call us to <a href="tel://+2507224455241">+250 7224455241</a> from <em>0:00hs</em> a
-                        <em>24:00hs</em></p>
-                </div>
-            </div>
-            <a class="qlwapp-toggle" data-action="box" data-phone="+250724455241" data-message="Hello!" href="#"
-                target="_blank">
-                <i class="qlwapp-icon qlwapp-whatsapp-icon"></i>
-                <i class="qlwapp-close" data-action="close">&times;</i>
-                <span class="qlwapp-text">Whatsapp Umoja Logistics</span>
-            </a>
-        </div>
-    </div>
 
 
     @include('partials.new-footer')
