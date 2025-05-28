@@ -119,13 +119,13 @@
 
             .header__container,
             .is-sticky-nav .header__navigation {
-                background-color: #1f425d;
+                background-color: #201E1E;
             }
         }
 
         .navbar-toggle,
         .jumbotron {
-            background-color: #1f425d;
+            background-color: #201E1E;
         }
 
         .navbar-toggle:hover {
@@ -136,7 +136,7 @@
 
             .social-icons__link,
             .social-icons__link:hover {
-                color: #1f425d;
+                color: #201E1E;
             }
         }
 
@@ -173,7 +173,7 @@
             .main-navigation .sub-menu>li>a:hover,
             .main-navigation .menu-item-has-children:hover::after,
             .main-navigation .sub-menu .menu-item-has-children:hover::after {
-                color: #1f425d;
+                color: #201E1E;
             }
         }
 
@@ -187,7 +187,7 @@
 
             .main-navigation>li:hover>a,
             .main-navigation>li:focus>a {
-                color: #1f425d;
+                color: #201E1E;
             }
         }
 
@@ -199,7 +199,7 @@
 
         @media (max-width: 991px) {
             .main-navigation .sub-menu>li>a:hover {
-                color: #1f425d;
+                color: #201E1E;
             }
         }
 
@@ -357,12 +357,12 @@
         .footer::after,
         .footer-top::before,
         .footer-top::after {
-            background-color: #1f425d;
+            background-color: #201E1E;
         }
 
         .footer .icon-container--square,
         .footer .icon-container--circle {
-            color: #1f425d;
+            color: #201E1E;
         }
 
         .footer-top__headings {
@@ -591,14 +591,14 @@
         }
 
         #pg-6-3>.panel-row-style {
-            background-image:url('{{ asset(' gfl/images/background-image.jpg')}}');
+            background-image:url('{{ asset('gfl/images/background-image.jpg')}}');
             background-position: center center;
             background-repeat: no-repeat;
             padding: 60px
         }
 
         #pg-6-6>.panel-row-style {
-            background-image:url('{{ asset(' gfl/images/background-image.jpg')}}');
+            background-image:url('{{ asset('gfl/images/background-image.jpg')}}');
             background-repeat: repeat;
             padding: 60px
         }
@@ -803,14 +803,14 @@
                                             data-index="1">
                                             <div class="textwidget">
                                                 <p><img alt="" width="1061" height="601"
-                                                        data-src="{{asset('gfl/images/container-ocean.jpg')}}"
+                                                        data-src="{{asset('gfl/images/about/land-services.jpg')}}"
                                                         class="alignnone wp-image-760 lazyload" src="" />
                                                 </p>
                                                 <p><img alt="" width="965" height="547"
-                                                        data-src="{{asset('gfl/images/truck-legend.jpg')}}"
+                                                        data-src="{{asset('gfl/images/about/ocean-freight.jpg')}}"
                                                         class="alignnone wp-image-750 lazyload" src="" /><img alt=""
                                                         width="951" height="539"
-                                                        data-src="{{asset('gfl/images/truck2.jpg')}}"
+                                                        data-src="{{asset('gfl/images/about/air-freight.jpg')}}"
                                                         class="alignnone  wp-image-755 lazyload" src="" />
                                                 </p>
                                             </div>

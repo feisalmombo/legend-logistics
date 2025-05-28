@@ -119,13 +119,13 @@
 
             .header__container,
             .is-sticky-nav .header__navigation {
-                background-color: #1f425d;
+                background-color: #201E1E;
             }
         }
 
         .navbar-toggle,
         .jumbotron {
-            background-color: #1f425d;
+            background-color: #201E1E;
         }
 
         .navbar-toggle:hover {
@@ -136,7 +136,7 @@
 
             .social-icons__link,
             .social-icons__link:hover {
-                color: #1f425d;
+                color: #201E1E;
             }
         }
 
@@ -173,7 +173,7 @@
             .main-navigation .sub-menu>li>a:hover,
             .main-navigation .menu-item-has-children:hover::after,
             .main-navigation .sub-menu .menu-item-has-children:hover::after {
-                color: #1f425d;
+                color: #201E1E;
             }
         }
 
@@ -187,7 +187,7 @@
 
             .main-navigation>li:hover>a,
             .main-navigation>li:focus>a {
-                color: #1f425d;
+                color: #201E1E;
             }
         }
 
@@ -199,7 +199,7 @@
 
         @media (max-width: 991px) {
             .main-navigation .sub-menu>li>a:hover {
-                color: #1f425d;
+                color: #201E1E;
             }
         }
 
@@ -357,12 +357,12 @@
         .footer::after,
         .footer-top::before,
         .footer-top::after {
-            background-color: #1f425d;
+            background-color: #201E1E;
         }
 
         .footer .icon-container--square,
         .footer .icon-container--circle {
-            color: #1f425d;
+            color: #201E1E;
         }
 
         .footer-top__headings {
@@ -379,7 +379,7 @@
         }
 
         .footer-bottom {
-            background-color: #162f42;
+            background-color: #0c2233;
         }
 
         .footer-bottom {
@@ -591,14 +591,14 @@
         }
 
         #pg-6-3>.panel-row-style {
-            background-image:url('{{ asset(' gfl/images/background-image.jpg')}}');
+            background-image:url('{{ asset('gfl/images/background-image.jpg')}}');
             background-position: center center;
             background-repeat: no-repeat;
             padding: 60px
         }
 
         #pg-6-6>.panel-row-style {
-            background-image:url('{{ asset(' gfl/images/background-image.jpg')}}');
+            background-image:url('{{ asset('gfl/images/background-image.jpg')}}');
             background-repeat: repeat;
             padding: 60px
         }
@@ -794,7 +794,7 @@
                                                         data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]"
                                                         data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
                                                         style="z-index: 6; white-space: nowrap; font-size: 35px; line-height: 32px; font-weight: 700; color: #ffffff; letter-spacing: 0px;font-family:Open Sans;">
-                                                        --------Fast and Safe-------- </div>
+                                                        </div>
 
                                                     <!-- LAYER NR. 3 -->
                                                     <div class="tp-caption   tp-resizeme" id="slide-1-layer-5"
@@ -806,7 +806,7 @@
                                                         data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]"
                                                         data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
                                                         style="z-index: 7; white-space: nowrap; font-size: 48px; line-height: 55px; font-weight: 400; color: #ffc400; letter-spacing: 0px;font-family:Open Sans;">
-                                                        TRANSPORTATION </div>
+                                                        Road Transport </div>
 
                                                     <!-- LAYER NR. 4 -->
                                                     <div class="tp-caption   tp-resizeme" id="slide-1-layer-6"
@@ -818,24 +818,9 @@
                                                         data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]"
                                                         data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
                                                         style="z-index: 8; min-width: 403px; max-width: 403px; max-width: 127px; max-width: 127px; white-space: nowrap; font-size: 20px; line-height: 34px; font-weight: 400; color: #ffffff; letter-spacing: 0px;font-family:Open Sans;">
-                                                        Freight, warehousing, accounting, packaging<br> and distribution
-                                                        are just a few examples of what<br> we can do to ensure your
-                                                        success. </div>
-
-                                                    <!-- LAYER NR. 5 -->
-                                                    <div class="tp-caption rev-btn rev-withicon " id="slide-1-layer-8"
-                                                        data-x="219" data-y="408" data-width="['201']"
-                                                        data-height="['44']" data-type="button"
-                                                        data-actions='[{"event":"click","action":"simplelink","target":"_self","url":"#","delay":""}]'
-                                                        data-responsive_offset="on" data-responsive="off"
-                                                        data-frames='[{"delay":1070,"speed":1000,"frame":"0","from":"z:0;rX:0deg;rY:0;rZ:0;sX:2;sY:2;skX:0;skY:0;opacity:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","to":"o:1;","ease":"Power2.easeOut"},{"delay":"wait","speed":500,"frame":"999","to":"rZ:0deg;sX:0.7;sY:0.7;opacity:0;","mask":"x:0;y:0;s:inherit;e:inherit;","ease":"Back.easeIn"},{"frame":"hover","speed":"0","ease":"Linear.easeNone","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(0,0,0,1);bg:rgba(255,255,255,1);bs:solid;bw:0 0 0 0;"}]'
-                                                        data-textalign="['inherit','inherit','inherit','inherit']"
-                                                        data-paddingtop="[12,12,12,12]"
-                                                        data-paddingright="[35,35,35,35]"
-                                                        data-paddingbottom="[12,12,12,12]"
-                                                        data-paddingleft="[35,35,35,35]"
-                                                        style="z-index: 10; min-width: 201px; max-width: 201px; max-width: 44px; max-width: 44px; white-space: nowrap; font-size: 17px; line-height: 17px; font-weight: 500; color: rgba(255,255,255,1); letter-spacing: px;font-family:Roboto;background-color:rgba(255,196,0,0.75);border-color:rgba(0,0,0,1);border-radius:30px 30px 30px 30px;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;">
-                                                        Contact Us Now<i class="fa-icon-chevron-right"></i> </div>
+                                                        Road Transport involves the transportation of cargo by truck, trailers or rail between <br>
+                                                        specified locations. Within the ‘Intermodal’ or interconnected aspects of Land, Sea and Air transportation,
+                                                        Land freight is a vital link. </div>
                                                 </li>
                                                 <!-- SLIDE  -->
                                                 <li data-index="rs-7" data-transition="fade" data-slotamount="default"
@@ -875,7 +860,7 @@
                                                         data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]"
                                                         data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
                                                         style="z-index: 6; white-space: nowrap; font-size: 35px; line-height: 32px; font-weight: 700; color: #ffffff; letter-spacing: 0px;font-family:Open Sans;">
-                                                        --------Fast and Safe-------- </div>
+                                                        </div>
 
                                                     <!-- LAYER NR. 8 -->
                                                     <div class="tp-caption   tp-resizeme" id="slide-7-layer-5"
@@ -887,7 +872,7 @@
                                                         data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]"
                                                         data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
                                                         style="z-index: 7; white-space: nowrap; font-size: 48px; line-height: 55px; font-weight: 400; color: #ffc400; letter-spacing: 0px;font-family:Open Sans;">
-                                                        TRANSPORTATION </div>
+                                                        Ocean Freight </div>
 
                                                     <!-- LAYER NR. 9 -->
                                                     <div class="tp-caption   tp-resizeme" id="slide-7-layer-6"
@@ -899,24 +884,9 @@
                                                         data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]"
                                                         data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
                                                         style="z-index: 8; min-width: 403px; max-width: 403px; max-width: 127px; max-width: 127px; white-space: nowrap; font-size: 20px; line-height: 34px; font-weight: 400; color: #ffffff; letter-spacing: 0px;font-family:Open Sans;">
-                                                        Freight, warehousing, accounting, packaging<br> and distribution
-                                                        are just a few examples of what<br> we can do to ensure your
-                                                        success. </div>
-
-                                                    <!-- LAYER NR. 10 -->
-                                                    <div class="tp-caption rev-btn rev-withicon " id="slide-7-layer-8"
-                                                        data-x="219" data-y="408" data-width="['201']"
-                                                        data-height="['44']" data-type="button"
-                                                        data-actions='[{"event":"click","action":"simplelink","target":"_self","url":"#","delay":""}]'
-                                                        data-responsive_offset="on" data-responsive="off"
-                                                        data-frames='[{"delay":1070,"speed":1000,"frame":"0","from":"z:0;rX:0deg;rY:0;rZ:0;sX:2;sY:2;skX:0;skY:0;opacity:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","to":"o:1;","ease":"Power2.easeOut"},{"delay":"wait","speed":500,"frame":"999","to":"rZ:0deg;sX:0.7;sY:0.7;opacity:0;","mask":"x:0;y:0;s:inherit;e:inherit;","ease":"Back.easeIn"},{"frame":"hover","speed":"0","ease":"Linear.easeNone","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(0,0,0,1);bg:rgba(255,255,255,1);bs:solid;bw:0 0 0 0;"}]'
-                                                        data-textalign="['inherit','inherit','inherit','inherit']"
-                                                        data-paddingtop="[12,12,12,12]"
-                                                        data-paddingright="[35,35,35,35]"
-                                                        data-paddingbottom="[12,12,12,12]"
-                                                        data-paddingleft="[35,35,35,35]"
-                                                        style="z-index: 9; min-width: 201px; max-width: 201px; max-width: 44px; max-width: 44px; white-space: nowrap; font-size: 17px; line-height: 17px; font-weight: 500; color: rgba(255,255,255,1); letter-spacing: px;font-family:Roboto;background-color:rgba(255,196,0,0.75);border-color:rgba(0,0,0,1);border-radius:30px 30px 30px 30px;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;">
-                                                        Contact Us Now<i class="fa-icon-chevron-right"></i> </div>
+                                                        Ocean Freight is a leading innovator in customer driven freight services. we successfully and
+                                                        creatively filled the need of a rapidly changing marketplace with a strategic <br>
+                                                        focus to satisfy increasing customer requirements for premium transportation </div>
                                                 </li>
                                                 <!-- SLIDE  -->
                                                 <li data-index="rs-6" data-transition="fade" data-slotamount="default"
@@ -956,7 +926,7 @@
                                                         data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]"
                                                         data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
                                                         style="z-index: 6; white-space: nowrap; font-size: 35px; line-height: 32px; font-weight: 700; color: #ffffff; letter-spacing: 0px;font-family:Open Sans;">
-                                                        --------Fast and Safe-------- </div>
+                                                        </div>
 
                                                     <!-- LAYER NR. 13 -->
                                                     <div class="tp-caption   tp-resizeme" id="slide-6-layer-5"
@@ -968,7 +938,7 @@
                                                         data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]"
                                                         data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
                                                         style="z-index: 7; white-space: nowrap; font-size: 48px; line-height: 55px; font-weight: 400; color: #ffc400; letter-spacing: 0px;font-family:Open Sans;">
-                                                        TRANSPORTATION </div>
+                                                        Air Freight </div>
 
                                                     <!-- LAYER NR. 14 -->
                                                     <div class="tp-caption   tp-resizeme" id="slide-6-layer-6"
@@ -980,24 +950,9 @@
                                                         data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]"
                                                         data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
                                                         style="z-index: 8; min-width: 403px; max-width: 403px; max-width: 127px; max-width: 127px; white-space: nowrap; font-size: 20px; line-height: 34px; font-weight: 400; color: #ffffff; letter-spacing: 0px;font-family:Open Sans;">
-                                                        Freight, warehousing, accounting, packaging<br> and distribution
-                                                        are just a few examples of what<br> we can do to ensure your
-                                                        success. </div>
-
-                                                    <!-- LAYER NR. 15 -->
-                                                    <div class="tp-caption rev-btn rev-withicon " id="slide-6-layer-8"
-                                                        data-x="219" data-y="408" data-width="['201']"
-                                                        data-height="['44']" data-type="button"
-                                                        data-actions='[{"event":"click","action":"simplelink","target":"_self","url":"#","delay":""}]'
-                                                        data-responsive_offset="on" data-responsive="off"
-                                                        data-frames='[{"delay":1070,"speed":1000,"frame":"0","from":"z:0;rX:0deg;rY:0;rZ:0;sX:2;sY:2;skX:0;skY:0;opacity:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","to":"o:1;","ease":"Power2.easeOut"},{"delay":"wait","speed":500,"frame":"999","to":"rZ:0deg;sX:0.7;sY:0.7;opacity:0;","mask":"x:0;y:0;s:inherit;e:inherit;","ease":"Back.easeIn"},{"frame":"hover","speed":"0","ease":"Linear.easeNone","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(0,0,0,1);bg:rgba(255,255,255,1);bs:solid;bw:0 0 0 0;"}]'
-                                                        data-textalign="['inherit','inherit','inherit','inherit']"
-                                                        data-paddingtop="[12,12,12,12]"
-                                                        data-paddingright="[35,35,35,35]"
-                                                        data-paddingbottom="[12,12,12,12]"
-                                                        data-paddingleft="[35,35,35,35]"
-                                                        style="z-index: 9; min-width: 201px; max-width: 201px; max-width: 44px; max-width: 44px; white-space: nowrap; font-size: 17px; line-height: 17px; font-weight: 500; color: rgba(255,255,255,1); letter-spacing: px;font-family:Roboto;background-color:rgba(255,196,0,0.75);border-color:rgba(0,0,0,1);border-radius:30px 30px 30px 30px;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;">
-                                                        Contact Us Now<i class="fa-icon-chevron-right"></i> </div>
+                                                        Air Freight is offered as part of our own services. We additionally offer a Stand-Alone, full Air Freight & Brokerage service
+                                                        for Importers, <br>
+                                                        Exporters, Local and Overseas Cargo Agents. We do not need to carry your goods to clear</div>
                                                 </li>
                                             </ul>
                                             <script>
@@ -1038,10 +993,8 @@ var revapi1,
 	}else{
 		revapi1 = tpj("#rev_slider_1_1").show().revolution({
 			sliderType:"carousel",
-			//jsFileLocation:"{{ asset('//gfl/wp-content/plugins/revslider/public/assets/js/') }}",
-			//jsFileLocation:"//gfl/wp-content/plugins/revslider/public/assets/js/",
-			//jsFileLocation:"//legendlogistics.co.tz/wp-content/plugins/revslider/public/assets/js/",
 			jsFileLocation:"//umojalogistics.co.rw/wp-content/plugins/revslider/public/assets/js/",
+			// jsFileLocation:"//gfl/wp-content/plugins/revslider/public/assets/js/",
 			sliderLayout:"fullwidth",
 			dottedOverlay:"none",
 			delay:9000,
@@ -1147,12 +1100,12 @@ var revapi1,
                                 <div class="page-box  page-box--block">
                                     <a class="page-box__picture" href="#"><img width="360" height="240"
                                             data-srcset="{{asset('gfl/images/freight-services.jpg')}}"
-                                            alt="Freight Services" data-src="#"
+                                            alt="Ocean Freight" data-src="#"
                                             data-sizes="(min-width: 992px) 360px, calc(100vw - 30px)"
                                             class="wp-post-image lazyload" src="#"></a>
                                     <div class="page-box__content">
-                                        <h5 class="page-box__title"><a href="#">Freight Services</a></h5>
-                                        <p>Freight Services is a leading innovator in customer driven freight services.
+                                        <h5 class="page-box__title"><a href="#">Ocean Freight</a></h5>
+                                        <p>Ocean Freight is a leading innovator in customer driven freight services.
                                             we successfully and creatively filled the need of a rapidly changing
                                             marketplace with a strategic focus to satisfy increasing customer
                                             requirements for premium transportation &hellip;</p>
@@ -1170,12 +1123,12 @@ var revapi1,
                                 <div class="page-box  page-box--block">
                                     <a class="page-box__picture" href="#"><img width="360" height="240"
                                             data-srcset="{{asset('gfl/images/land-services.jpg')}}"
-                                            alt="Land Freight Services" data-src="#"
+                                            alt="Road Transport" data-src="#"
                                             data-sizes="(min-width: 992px) 360px, calc(100vw - 30px)"
                                             class="wp-post-image lazyload" src="#"></a>
                                     <div class="page-box__content">
-                                        <h5 class="page-box__title"><a href="#">Land Freight Services</a></h5>
-                                        <p>Land freight involves the transportation of cargo by truck, trailers or rail
+                                        <h5 class="page-box__title"><a href="#">Road Transport</a></h5>
+                                        <p>Road Transport involves the transportation of cargo by truck, trailers or rail
                                             between specified locations. Within the &lsquo;Intermodal&rsquo; or
                                             interconnected aspects of Land, Sea and Air transportation, Land freight is
                                             a vital link. FTL : Full &hellip;</p>
@@ -1192,14 +1145,14 @@ var revapi1,
 
                                 <div class="page-box  page-box--block">
                                     <a class="page-box__picture" href="#"><img width="360" height="240"
-                                            data-srcset="{{asset('gfl/images/customs-clearance-service.jpg')}}"
-                                            alt="Customs Clearance Services" data-src="#"
+                                            data-srcset="{{asset('gfl/images/air-freight.jpg')}}"
+                                            alt="Air Freight" data-src="#"
                                             data-sizes="(min-width: 992px) 360px, calc(100vw - 30px)"
                                             class="wp-post-image lazyload" src="#"></a>
                                     <div class="page-box__content">
-                                        <h5 class="page-box__title"><a href="#">Customs Clearance Services</a></h5>
-                                        <p>Customs Clearance is offered as part of our own services. We additionally
-                                            offer a Stand-Alone, full Customs Clearance &amp; Brokerage service for
+                                        <h5 class="page-box__title"><a href="#">Air Freight</a></h5>
+                                        <p>Air Freight is offered as part of our own services. We additionally
+                                            offer a Stand-Alone, full Air Freight &amp; Brokerage service for
                                             Importers, Exporters, Local and Overseas Cargo Agents. We do not need to
                                             carry your goods to clear &hellip;</p>
                                         <p><a href="#" class="read-more  read-more--page-box">Read more</a></p>
@@ -1215,13 +1168,13 @@ var revapi1,
 
                                 <div class="page-box  page-box--block">
                                     <a class="page-box__picture" href="#"><img width="360" height="240"
-                                            data-srcset="{{asset('gfl/images/cargo-insurance.jpg')}}"
-                                            alt="Cargo Insurance" data-src="#"
+                                            data-srcset="{{asset('gfl/images/railway-transport.jpg')}}"
+                                            alt="Railway Transport" data-src="#"
                                             data-sizes="(min-width: 992px) 360px, calc(100vw - 30px)"
                                             class="wp-post-image lazyload" src="#"></a>
                                     <div class="page-box__content">
-                                        <h5 class="page-box__title"><a href="#">Cargo Insurance</a></h5>
-                                        <p>Cargo Insurance&nbsp;provides&nbsp;coverage&nbsp;against all risks of
+                                        <h5 class="page-box__title"><a href="#">Railway Transport</a></h5>
+                                        <p>Railway Transport&nbsp;provides&nbsp;coverage&nbsp;against all risks of
                                             physical loss or damage to&nbsp;freight&nbsp;during the shipment from any
                                             external cause during shipping, whether by land, sea or air. Also, known
                                             as&nbsp;Freight Insurance, it covers transits carried &hellip;</p>
@@ -1319,11 +1272,10 @@ var revapi1,
                                                         <span class="wpcf7-form-control-wrap menu-354"><select
                                                                 name="menu-354" class="wpcf7-form-control wpcf7-select"
                                                                 aria-invalid="false">
-                                                                <option value="CUSTOMS CLEARANCE">CUSTOMS CLEARANCE
-                                                                </option>
-                                                                <option value="CARGO INSURANCE">CARGO INSURANCE</option>
-                                                                <option value="LAND FREIGHT">LAND FREIGHT</option>
-                                                                <option value="FREIGHT">FREIGHT</option>
+                                                                <option value="Ocean Freight">Ocean Freight</option>
+                                                                <option value="Road Transport">Road Transport</option>
+                                                                <option value="Air Freight">Air Freight</option>
+                                                                <option value="Railway Transport">Railway Transport</option>
                                                             </select></span>
                                                     </div>
                                                     <div class="col-xs-12  col-md-6">
@@ -1339,8 +1291,13 @@ var revapi1,
                                                                 placeholder="Message"></textarea></span>
                                                     </div>
                                                     <div class="col-xs-12  col-md-12">
+<<<<<<< HEAD
                                                         <input type="submit" value="SEND MESSAGE"
                                                             class="wpcf7-form-control wpcf7-submit btn btn-primary pull-right" disabled>
+=======
+                                                        <input type="submit" value="SEND MESSAGE" disabled="disabled"
+                                                            class="wpcf7-form-control wpcf7-submit btn btn-primary pull-right">
+>>>>>>> 038b854c518e0c5933f3586b80bd4ef63f21fdfc
                                                     </div>
                                                 </div>
                                             </div>
@@ -1374,6 +1331,7 @@ var revapi1,
                                     <div class="logo-panel">
                                         <div class="row">
                                             <div class="col-xs-12 col-sm-2"></div>
+<<<<<<< HEAD
                                             <div class="col-xs-12 col-sm-2"><img alt="Client1"
                                                 data-src="{{asset('gfl/partners/Tengwa.png')}}" class="lazyload"
                                                 src="#">
@@ -1394,6 +1352,17 @@ var revapi1,
                                                 src="#">
                                             </div>
 
+=======
+                                            <div class="col-xs-6 col-sm-2"><img alt="Tengwa Africa"
+                                                    data-src="{{asset('gfl/images/partners/tengwa-africa.png')}}" class="lazyload"
+                                                    src="#">
+                                            </div>
+
+                                            <div class="col-xs-6 col-sm-2"><img alt="United Alloys Zambia Limited"
+                                                data-src="{{asset('gfl/images/partners/united-alloys-zambia-ltd.png')}}" class="lazyload"
+                                                src="#">
+                                            </div>
+>>>>>>> 038b854c518e0c5933f3586b80bd4ef63f21fdfc
                                         </div>
                                     </div>
                                 </div>
@@ -1410,9 +1379,7 @@ var revapi1,
                                 data-index="11">
                                 <div class="call-to-action">
                                     <div class="call-to-action__text">
-                                        Not sure which solution fits you business needs? </div>
-                                    <div class="call-to-action__button">
-                                        <a class="btn btn-primary" href="{{ url('/contact-us') }}" target="_blank">Contact Us Now</a>
+
                                     </div>
                                 </div>
                             </div>
@@ -1442,8 +1409,8 @@ var revapi1,
                             <div class="textwidget">
                                 <p>Railway Street, Plot 158, Near Clock Tower Najmi Manzil Building,
                                     4th Floor.
-                                    P. O Box 70963 Sokoine Drive Dar-es-Salaam - Tanzania<br>
-                                    Mob: +255 776 666 663<br>
+                                    P. O Box 70044 Sokoine Drive Dar-es-Salaam - Tanzania<br>
+                                    Mob: +255 776 666 663 / +255 778 888 887<br>
                             </div>
                         </div>
                     </div>
@@ -1474,8 +1441,8 @@ var revapi1,
                             data-index="16">
                             <h3 class="widget-title"><span class="widget-title__inline">__________________</span></h3>
                             <div class="textwidget">
-                                <p>Operations:<br>
-                                    Email: operations@legendlogistics.co.tz</p>
+                                <p>Tracking:<br>
+                                    Email: tracking@legendlogistics.co.tz</p>
                             </div>
                         </div>
                     </div>

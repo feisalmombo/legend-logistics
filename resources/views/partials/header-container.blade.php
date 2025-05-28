@@ -3,9 +3,10 @@
         <header class="header" role="banner">
             <div class="header__logo">
                 {{-- <a href="#">
-                    <img alt="Legend Logistics" data-srcset="{{asset('gfl/images/gfl2.png')}}" width="218" height="67"
+                    <img alt="Legend Logistics" data-srcset="{{asset('gfl/images/logo/legend-logo.png')}}" width="218" height="67"
                         data-src="3" class="img-responsive lazyload" src="#" alt="Legend Logistics Company Limited">
                 </a> --}}
+
                 <h1>Legend Logistics</h1>
                 <button type="button" class="navbar-toggle" data-toggle="collapse"
                     data-target="#cargopress-navbar-collapse">
